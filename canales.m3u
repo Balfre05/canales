@@ -425,3 +425,21 @@ http://181.78.22.70:8000/play/a05z/index.m3u8
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1 tvg-id="Heroico.mov" tvg-name="Heroico" tvg-logo="https://static.cinepolis.com/img/peliculas/43452/1/1/43452.jpg" group-title="Movie",Heroico
 https://hfs282.serversicuro.cc/hls/dnzpfpwd2pg4a3gyvcrx533vqkcutqfygvcw6g2ig,sbka2gh54vrnjjpw3pa,jikc2gh54vse2nusfeq,.urlset/master.m3u8
+#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="Studio Universal" tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="Entretenimiento",Studio Universal
+http://45.228.232.219:16000/play/a0o8/index.m3u8
+#EXTINF:-1 tvg-id="WarnerHD.mx" tvg-name="Warner HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_warner-hd_m.png" group-title="Entretenimiento",Warner HD
+http://45.228.232.219:16000/play/a0nc/index.m3u8
+#EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="Star Channel" tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox_m.png" group-title="Entretenimiento",Star Channel
+http://45.228.232.219:16000/play/a0nu/index.m3u8
+#EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="RCN Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/205px-RCN_Novelas_logo_2019.png" group-title="Colombia",RCN Novelas
+http://45.228.232.219:16000/play/a0kw/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.mx" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/800px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Entretenimiento",Nickelodeon
+http://45.228.232.219:16000/play/a0ns/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="https://cdn.mitvstatic.com/channels/mx_national-geographic_m.png" group-title="Entretenimiento",National Geographic
+http://45.228.232.219:16000/play/a0m0/index.m3u8
+#EXTINF:-1 tvg-id="HistoryHD.mx" tvg-name="History HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_history-hd_m.png" group-title="Entretenimiento",History HD
+http://45.228.232.219:16000/play/a0md/index.m3u8
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/125px-FX_International_logo.svg.png" group-title="Entretenimiento",FX
+http://45.228.232.219:16000/play/a0kv/index.m3u8
+#EXTINF:-1 tvg-id="Disney.mx" tvg-name="Disney" tvg-logo="https://cdn.mitvstatic.com/channels/mx_disney_m.png" group-title="Entretenimiento",Disney
+http://45.228.232.219:16000/play/a0nt/index.m3u8
