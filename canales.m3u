@@ -5,186 +5,158 @@ http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/2798
 http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/4785
 #EXTINF:-1 tvg-id="TNTSeries3.mx" tvg-name="TNT Series 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/TNT_Series.svg/revision/latest/scale-to-width-down/150?cb=20200116195019&path-prefix=es" group-title="Entretenimiento",TNT Series 3
 http://45.228.232.219:16000/play/a0ly/index.m3u8
-#EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Caracol_2015.png/revision/latest/scale-to-width-down/200?cb=20210217012432&path-prefix=es" group-title="Colombia",Caracol
-http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/4810
-#EXTINF:-1 tvg-id="Caracol1.co" tvg-name="Caracol 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Caracol_2015.png/revision/latest/scale-to-width-down/200?cb=20210217012432&path-prefix=es" group-title="Colombia",Caracol 1
-http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/3571
-#EXTINF:-1 tvg-id="Caracol2.co" tvg-name="Caracol 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Caracol_2015.png/revision/latest/scale-to-width-down/200?cb=20210217012432&path-prefix=es" group-title="Colombia",Caracol 2
-http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/3572
-#EXTINF:-1 tvg-id="Caracol3.co" tvg-name="Caracol 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Caracol_2015.png/revision/latest/scale-to-width-down/200?cb=20210217012432&path-prefix=es" group-title="Colombia",Caracol 3
-http://offshore.lat:25461/dfgersgr@w/XqeaDgqDaA/410
-#EXTINF:-1 tvg-id="RCN.co" tvg-name="RCN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Canal_RCN_%282019-Dec%29.svg/revision/latest/scale-to-width-down/1000?cb=20210426191756&path-prefix=es" group-title="Colombia",RCN
-http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/3575
-#EXTINF:-1 tvg-id="RCN1.co" tvg-name="RCN 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Canal_RCN_%282019-Dec%29.svg/revision/latest/scale-to-width-down/1000?cb=20210426191756&path-prefix=es" group-title="Colombia",RCN 1
-http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/3576
-#EXTINF:-1 tvg-id="101tvMalaga.es" tvg-name="101 TV Malaga" tvg-logo="https://i.imgur.com/CXHLhZD.png" group-title="España",101 TV Malaga
-https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
-#EXTINF:-1 tvg-id="28kanala.es" tvg-name="28 Kanala" tvg-logo="https://i.imgur.com/DyvK28q.png" group-title="España",28 Kanala
-https://5940924978228.streamlock.net/8157/8157/master.m3u8
-#EXTINF:-1 tvg-id="Canal8.es" tvg-name="Canal 8" tvg-logo="https://i.imgur.com/BTJvvBK.png" group-title="España",Canal 8
-https://streaming005.gestec-video.com/hls/canal24.m3u8
-#EXTINF:-1 tvg-id="AfortunadasTV.es" tvg-name="Afortunadas TV" tvg-logo="https://i.imgur.com/geVZYUA.png" group-title="España",Afortunadas TV
-https://cloudvideo.servers10.com:8081/8108/index.m3u8
-#EXTINF:-1 tvg-id="Anaylos7PlutoTVHD.es" tvg-name="Ana y los 7 Pluto TV HD" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/73b3296df3844854d02bb72584b13d47efc559e84628c44e8b8ad7ef93069982._AC_SX480_FMwebp_.jpg" group-title="España",Ana y los 7 Pluto TV HD
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acce7f17797000718f9be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="AragonTV.es" tvg-name="Aragon TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_aragon_tv_2016.png" group-title="España",Aragon TV
-https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-#EXTINF:-1 tvg-id="InteralmeriaTV.es"  tvg-name="Interalmeria TV" tvg-logo="https://i.imgur.com/ulSkAjZ.png" group-title="España",Interalmeria TV
-https://interalmeria.tv/directo/live.m3u8
-#EXTINF:-1 tvg-id="IntercomarcalTV.es" tvg-name="Intercomarcal TV" tvg-logo="https://i.imgur.com/KLPSnAT.png" group-title="España",Intercomarcal TV
-https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
-#EXTINF:-1 tvg-id="La2Canarias.es" tvg-name="La 2 Canarias" tvg-logo="https://i.imgur.com/iwDi3ND.png" group-title="España",La 2 Canarias
-https://rtvelivestream.akamaized.net/rtvesec/can/la2_can_main_dvr.m3u8
-#EXTINF:-1 tvg-id="LancelotTV.es" tvg-name="Lancelot TV" tvg-logo="https://i.imgur.com/RlzVIJP.png" group-title="España",Lancelot TV
-https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
-#EXTINF:-1 tvg-id="LaUrbanTV.es" tvg-name="La Urban TV" tvg-logo="https://i.imgur.com/hythjEn.png" group-title="España",La Urban TV
-https://urbanrevolution.es:8443/live/TV/playlist.m3u8
-#EXTINF:-1 tvg-id="LogosTV.es" tvg-name="Logos TV" tvg-logo="https://i.imgur.com/Kr3U3Ub.png" group-title="España",Logos TV
-https://streamer1.streamhost.org/salive/logosH/master.m3u8
-#EXTINF:-1 tvg-id="Mijas340TV.es" tvg-name="Mijas 340 TV" tvg-logo="https://i.imgur.com/RH1zLLs.png" group-title="España",Mijas 340 TV
-https://streaming004.gestec-video.com/hls/MIJAS.m3u8
-#EXTINF:-1 tvg-id="MirameTV.es" tvg-name="Mirame TV" tvg-logo="https://i.imgur.com/LK4pLgT.png" group-title="España",Mirame TV
-https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
-#EXTINF:-1 tvg-id="MolahitsTV.es" tvg-name="Molahits TV" tvg-logo="https://i.imgur.com/FYcLtqT.png" group-title="España",Molahits TV
-http://ventdelnord.tv:8080/mola/directe.m3u8
-#EXTINF:-1 tvg-id="MyTimeMovieNetworkSpain.es" tvg-name="My Time Movie Network Spain" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="España",My Time Movie Network Spain
-https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NegociosTV.es" tvg-name="Negocios TV" tvg-logo="https://i.imgur.com/iXYfCBd.png" group-title="España",Negocios TV
-https://streaming013.gestec-video.com/hls/negociostv.m3u8
-#EXTINF:-1 tvg-id="NoroesteTV.es" tvg-name="Noroeste TV" tvg-logo="https://i.imgur.com/s6V8rQd.png" group-title="España",Noroeste TV
-https://cloudvideo.servers10.com:8081/8032/index.m3u8
-#EXTINF:-1 tvg-id="Nortevision.es" tvg-name="Nortevision" tvg-logo="https://i.imgur.com/C5SYw7B.png" group-title="España",Nortevision
-http://amaru.dyndns.org:8870/0.m3u8
-#EXTINF:-1 tvg-id="ActivaTV.es" tvg-name="Activa TV" tvg-logo="https://i.imgur.com/VCUZKiw.png" group-title="España",Activa TV
-https://streamtv.mediasector.es/hls/activatv/index.m3u8
-#EXTINF:-1 tvg-id="Anaylos7PlutoTV.es" tvg-name="Ana y los 7 Pluto TV" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/73b3296df3844854d02bb72584b13d47efc559e84628c44e8b8ad7ef93069982._AC_SX480_FMwebp_.jpg" group-title="España",Ana y los 7 Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acce7f17797000718f9be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="BailenTV.es" tvg-name="Bailen TV" tvg-logo="https://i.imgur.com/a64hwzq.png" group-title="España",Bailen TV
-http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCDramaSpain.es" tvg-name="BBC Drama Spain" tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="España",BBC Drama Spain
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="Beteve.es" tvg-name="Beteve " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Logotip_betev%C3%A9.svg/512px-Logotip_betev%C3%A9.svg.png" group-title="España",Beteve 
-https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
-#EXTINF:-1 tvg-id="BonDiaTV.es" tvg-name="Bon Dia TV" tvg-logo="https://i.imgur.com/90WOoro.png" group-title="España",Bon Dia TV
-https://directes-tv-int.ccma.cat/live-origin/bondia-hls/master.m3u8
-#EXTINF:-1 tvg-id="BurrianaTeVe.es" tvg-name="BurrianaTeVe" tvg-logo="https://i.imgur.com/G3nIGHh.png" group-title="España",BurrianaTeVe
-https://www.burrianateve.com/hls/btv.m3u8
-#EXTINF:-1 tvg-id="CadenaElite.es" tvg-name="Cadena Elite" tvg-logo="https://i.imgur.com/3yeGDTP.png" group-title="España",Cadena Elite
-https://cloudvideo.servers10.com:8081/8004/index.m3u8
-#EXTINF:-1 tvg-id="Canal2000.es" tvg-name="Canal 2000" tvg-logo="https://i.imgur.com/9RoBASf.png" group-title="España",Canal 2000
-http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8
-#EXTINF:-1 tvg-id="AFVEspanol.us" tvg-name="AFV Español" tvg-logo="https://i.imgur.com/HUK4WXC.png" group-title="USA",AFV Español
-https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="3ABNLatino.us" tvg-name="3ABN Latino " tvg-logo="https://i.imgur.com/If6rCuD.png" group-title="USA",3ABN Latino 
-https://3abn-live.akamaized.net/hls/live/2010547/Latino/playlist.m3u8
-#EXTINF:-1 tvg-id="VallenatoInternacional.us" tvg-name="Vallenato Internacional" tvg-logo="https://play-lh.googleusercontent.com/K1TgB4CCqWoTDhky17R_YXYCEEunpDZwmEHGXq8w0cv5j2BlN8LyyhoOaHMLuo0wnEg=w240-h480-rw" group-title="USA",Vallenato Internacional
-https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal10.hn" tvg-name="Canal 10" tvg-logo="https://tencanal10.tv/wp-content/uploads/2023/04/cropped-TEN-BUEN-CANAL.png" group-title="Honduras",Canal 10
-http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
-#EXTINF:-1 tvg-id="Canal5DelPuebloAlcorta.ar" tvg-name="Canal 5 Del Pueblo Alcorta" tvg-logo="https://i.ibb.co/XzcYYMc/Canal-5-alcorta-ver.jpg" group-title="Argentina",Canal 5 Del Pueblo Alcorta
-https://stmv1.cnarlatam.com/canal5pueblo/canal5pueblo/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMarcosJuarez2.ar" tvg-name="TV Marcos Juarez 2" tvg-logo="https://static.hosteltur.com/app/public/uploads/img/articles/2021/10/29/L_092304_buenos-aires004.jpg" group-title="Argentina",TV Marcos Juarez 2
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0128
-#EXTINF:-1 tvg-id="TVCordoba.ar" tvg-name="TV Cordova" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/LatinaTV-Cordoba-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title="Argentina",TV Cordova
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0118
-#EXTINF:-1 tvg-id="Canal2BuenosAires.ar" tvg-name="Canal 2 Buenos Aires" tvg-logo="https://static.wikia.nocookie.net/tvficticia/images/c/c2/Argenvisi%C3%B3n_1960-1965.png/revision/latest?cb=20230629041248&path-prefix=es" group-title="Argentina",Canal 2 Buenos Aires
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0102
-#EXTINF:-1 tvg-id="Canal3.fr" tvg-name="Canal 3" tvg-logo="https://i.imgur.com/B5gsM7m.png" group-title="Francia",Canal 3
-https://3abn-live.akamaized.net/hls/live/2010546/French/master.m3u8
-#EXTINF:-1 tvg-id="AlegreTVRD.do" tvg-name="Alegre TVRD" tvg-logo="https://i.imgur.com/O6USO8r.png" group-title="Republica Dominicana",Alegre TVRD
-https://vsrv2.az-streamingserver.com:3149/live/alegretvlive.m3u8
-#EXTINF:-1 tvg-id="MisionELTV.do" tvg-name="Mision ELTV" tvg-logo="https://i.imgur.com/hwC1stN.png" group-title="Republica Dominicana",Mision ELTV
-https://paz.sytes.net:5443/live/streams/misioneltv.m3u8
-#EXTINF:-1 tvg-id="NaranjaTV.do" tvg-name="Naranja TV" tvg-logo="https://i.imgur.com/g7iFN3s.png" group-title="Republica Dominicana",Naranja TV
-https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8
-#EXTINF:-1 tvg-id="88Stereo.cr" tvg-name="88 Stereo" tvg-logo="https://i.imgur.com/i3YwORV.png" group-title="Costa Rica",88 Stereo
-http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
-#EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-name="Agrotendencia TV" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Costa Rica",Agrotendencia TV
-https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
-#EXTINF:-1 tvg-id="AnexionTV.cr" tvg-name="Anexion TV" tvg-logo="https://i.imgur.com/7pfXF8N.png" group-title="Costa Rica",Anexion TV
-https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-id="LimonTV.cr" tvg-name="Limon TV" tvg-logo="https://i.ibb.co/rdpcv7C/1689421727166.jpg" group-title="Costa Rica",Limon TV
-http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
-#EXTINF:-1 tvg-id="LosSantosTV.cr" tvg-name="Los Santos TV" tvg-logo="https://i.imgur.com/5xw86wu.png" group-title="Costa Rica",Los Santos TV
-https://lstv.duckdns.org:449/hls/lstv.m3u8
-#EXTINF:-1 tvg-id="LuzNacienteTV.cr" tvg-name="Luz Naciente TV" tvg-logo="https://i.imgur.com/GC2lubh.png" group-title="Costa Rica",Luz Naciente TV
-https://streeming.protoscr.com:3858/live/streeminglive.m3u8
-#EXTINF:-1 tvg-id="NicoyaTV.cr" tvg-name="Nicoya TV" tvg-logo="https://i.imgur.com/Lj2jRn3.png" group-title="Costa Rica",Nicoya TV
-https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
-#EXTINF:-1 tvg-id="NorteInformativoTV.cr" tvg-name="Norte Informativo TV" tvg-logo="https://i.ibb.co/2MNzXN7/Channels4-profile-9.jpg" group-title="Costa Rica",Norte Informativo TV
-https://videohd.live:19360/8076/8076.m3u8
-#EXTINF:-1 tvg-id="Canal11.cr" tvg-name="Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/512px-Repretel_11_logo.png" group-title="Costa Rica",Canal 11
-http://45.228.232.219:16000/play/a0kq/index.m3u8
-#EXTINF:-1 tvg-id="Canal2.cr" tvg-name="Canal 2" tvg-logo="https://i.imgur.com/Nn8BtH5.png" group-title="Costa Rica",Canal 2
-https://d25v5vivhcrrh5.cloudfront.net/hls/canal2.m3u8
-#EXTINF:-1 tvg-id="Canal4.cr" tvg-name="Canal 4" tvg-logo="https://i.imgur.com/5arZEgO.png" group-title="Costa Rica",Canal 4
-http://45.228.232.219:16000/play/a0mv/index.m3u8
-#EXTINF:-1 tvg-id="Canal6.cr" tvg-name="Canal 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Repretel_Canal_6_%28Actual%29.png" group-title="Costa Rica",Canal 6
-http://45.228.232.219:16000/play/a0kp/index.m3u8
-#EXTINF:-1 tvg-id="MultimediosCostaRica.co" tvg-name="Multimedios Costa Rica" tvg-logo="https://scontent.fmex1-2.fna.fbcdn.net/v/t39.30808-6/277735539_3093879607544554_7843806063842294288_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHUNVFvfKRtMOleewDb-2GC1ialwlTonOzWJqXCVOic7MrVKWPSViBoXZetMtPhqlA6-15vsiOxe8mjGcEv0SEn&_nc_ohc=gySWJVucczsAX8lMYXb&_nc_ht=scontent.fmex1-2.fna&cb_e2o_trans=t&oh=00_AfBv2CSonmWBdozULFi8uiSSYamUGEmw6Kfa3x0su9cgkA&oe=655FF4AD" group-title="Costa Rica",Multimedios Costa Rica
-http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-#EXTINF:-1 tvg-id="LaX.pr" tvg-name="La X" tvg-logo="https://i.imgur.com/i2GnQTq.png" group-title="Puerto Rico",La X
-https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8
-#EXTINF:-1 tvg-id="MasterVideo.pr" tvg-name="Master Video" tvg-logo="https://i.imgur.com/0jj9Vx0.png" group-title="Puerto Rico",Master Video
-https://5fd5567570c0e.streamlock.net/222/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="BuenaTV.pr" tvg-name="Buena TV" tvg-logo="https://i.imgur.com/tsajuxi.png" group-title="Puerto Rico",Buena TV
-https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal9.pe" tvg-name="CNC Cajamarca" tvg-logo="https://i.imgur.com/l9OJjoT.png" group-title="Peru",CNC Cajamarca
-https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
-#EXTINF:-1 tvg-id="ATNTV.co" tvg-name="ATN TV" tvg-logo="https://i.imgur.com/79sX78u.png" group-title="Colombia",ATN TV
-https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
-#EXTINF:-1 tvg-id="MasTV.co" tvg-name="MasTV" tvg-logo="https://cdn.colombia.com/canales/canal-mas-television-5347.jpg" group-title="Colombia",MasTV
-https://movil.ejeserver.com/live/teledoradahd.m3u8
-#EXTINF:-1 tvg-id="MemoriasTV.co" tvg-name="Memorias TV" tvg-logo="https://i.imgur.com/RWC55w7.png" group-title="Colombia",Memorias TV
-https://mediacp.us:8081/8002/index.m3u8
-#EXTINF:-1 tvg-id="MoniTV.co" tvg-name="Moni TV" tvg-logo="https://i.ibb.co/DD6yFVC/descarga.png" group-title="Colombia",Moni TV
-https://servers.amelbasoluciones.co:19360/monitvlive/monitvlive.m3u8
-#EXTINF:-1 tvg-id="Noticiero90Minutos.co"  tvg-name="Noticiero 90 Minutos" tvg-logo="https://i.imgur.com/ThaRRCN.png" group-title="Colombia",Noticiero 90 Minutos
-https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
-#EXTINF:-1 tvg-id="OasisTV.co"  tvg-name="Oasis TV" tvg-logo="https://i.imgur.com/VKYzFpZ.png" group-title="Colombia",Oasis TV
-https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
-#EXTINF:-1 tvg-id="CableNoticiasHD.co" tvg-name="Cable Noticias HD" tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="Colombia",Cable Noticias HD
-https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
-#EXTINF:-1 tvg-id="CaliTV.co" tvg-name="Cali TV" tvg-logo="https://i.imgur.com/2312Luq.png" group-title="Colombia",Cali TV
-https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal2Alpavision.co" tvg-name="Canal 2 Alpavision" tvg-logo="https://i.imgur.com/Yv8XIGW.png" group-title="Colombia",Canal 2 Alpavision
-https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalCapital.co" tvg-name="Canal Capital" tvg-logo="https://i.imgur.com/6ozsYtj.png" group-title="Colombia",Canal Capital
-https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalInstitucional.co" tvg-name="Canal Institucional" tvg-logo="https://i.imgur.com/OzxNMDM.png" group-title="Colombia",Canal Institucional
-https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalNets.co" tvg-name="Canal Nets" tvg-logo="https://i.imgur.com/edaAexc.png" group-title="Colombia",Canal Nets
-https://movil.ejeserver.com/live/nets.m3u8
-#EXTINF:-1 tvg-id="CanalTelePalmar.co" tvg-name="Canal TelePalmar" tvg-logo="https://i.imgur.com/cAhlYUL.png" group-title="Colombia",Canal TelePalmar
-https://play.amelbasoluciones.co:3976/live/telepalmartvlive.m3u8
-#EXTINF:-1 tvg-id="CanalVIP.co" tvg-name="Canal VIP" tvg-logo="https://i.imgur.com/SBo3FBY.png" group-title="Colombia",Canal VIP
-https://play.cdn.enetres.net/B9E570CFE54949C7ABB985D4F8F77F7F021/02267/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalVisionDorada.co" tvg-name="Canal Vision Dorada" tvg-logo="https://i.imgur.com/TerY4iM.png" group-title="Colombia",Canal Vision Dorada
-https://movil.ejeserver.com/live/visiondorada.m3u8
-#EXTINF:-1 tvg-id="Cosmovision.co" tvg-name="Cosmovision" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Cosmovisi%C3%B3n_2009.png/revision/latest/scale-to-width-down/73?cb=20210212135658&path-prefix=es" group-title="Colombia",Cosmovision
-https://videohls2.cosmovision.tv/hls/sd.m3u8
-#EXTINF:-1 tvg-id="CTV.co" tvg-name="CTV Barranquilla" tvg-logo="https://i.imgur.com/w35ICn7.png" group-title="Colombia",CTV Barranquilla
-https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
-#EXTINF:-1 tvg-id="CableNoticias.co" tvg-name="Cable Noticias" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cablenoticias-co.png" group-title="Colombia",Cable Noticias
-https://5ea86ddd14ce7.streamlock.net/live/cable09061970/chunklist_w1591266264.m3u8
-#EXTINF:-1 tvg-id="NoticiasCaracol.co" tvg-name="Noticias Caracol" tvg-logo="https://graph.facebook.com/NoticiasCaracol/picture?width=200&height=200" group-title="Colombia",Noticias Caracol
-https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
-#EXTINF:-1 tvg-id="CNCMonteria.co" tvg-name="CNC Monteria" tvg-logo="https://cncmonteria.com/wp-content/uploads/2022/02/cropped-CNCMONTERUABLANCOCOOOO-300x108-1.png" group-title="Colombia",CNC Monteria
-https://stmv4.voxtvhd.com.br/cncmonteria/cncmonteria/playlist.m3u8
-#EXTINF:-1 tvg-id="CNCMedellin.co" tvg-name="CNC Medellín" tvg-logo="https://i.imgur.com/J1f4fNq.png" group-title="Colombia",CNC Medellín
-http://cncmedellin.ddns.net:1935/canalcnc/canalcnc_360p/playlist.m3u8
-#EXTINF:-1 tvg-id="ATV.co" tvg-name="ATV" tvg-logo="https://i.imgur.com/giPOGyi.png" group-title="Colombia",ATV
-https://movil.ejeserver.com/live/verteve.m3u8
-#EXTINF:-1 tvg-id="AvivamientoTV.co" tvg-name="Avivamiento TV" tvg-logo="https://i.imgur.com/7YB94Hf.png" group-title="Colombia",Avivamiento TV
-https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
-#EXTINF:-1 tvg-id="HuilaTV.co" tvg-name="Huila TV" tvg-logo="https://i.imgur.com/hFlGHNZ.png" group-title="Colombia",Huila TV
-https://plataformavideo.com:19360/8020/8020.m3u8
-#EXTINF:-1 tvg-id="MulticanalTelevision.co" tvg-name="Multicanal Televisión" tvg-logo="https://i.imgur.com/hPxt2OK.png" group-title="Colombia",Multicanal Televisión
-https://ssh101.bozztv.com/ssh101/KIOCApP/playlist.m3u8
+#EXTINF:-1 tvg-id="A&E.mx" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1280px-A%26E_Network_logo.svg.png" group-title="Entretenimiento",A&E
+http://45.228.232.219:16000/play/a0n1/index.m3u8
+#EXTINF:-1 tvg-id="A&E1.mx" tvg-name="A&E 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1280px-A%26E_Network_logo.svg.png" group-title="Entretenimiento",A&E 1
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/36
+#EXTINF:-1 tvg-id="A&E2.mx" tvg-name="A&E 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1280px-A%26E_Network_logo.svg.png" group-title="Entretenimiento",A&E 2
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/3839
+#EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="http://offshore.lat:36995/images/a34b5592645bbea24cc0e8ac51b276dd.png" group-title="Entretenimiento",AMC
+http://offshore.lat:25461/dfgersgr@w/XqeaDgqDaA/263354
+#EXTINF:-1 tvg-id="AMC1.mx" tvg-name="AMC 1" tvg-logo="http://offshore.lat:36995/images/a34b5592645bbea24cc0e8ac51b276dd.png" group-title="Entretenimiento",AMC 1
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/3019
+#EXTINF:-1 tvg-id="AMC2.mx" tvg-name="AMC 2" tvg-logo="http://offshore.lat:36995/images/a34b5592645bbea24cc0e8ac51b276dd.png" group-title="Entretenimiento",AMC 2
+http://45.228.232.219:16000/play/a0m7/index.m3u8
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/AXN_2012.png/revision/latest/scale-to-width-down/350?cb=20200130031633&path-prefix=es" group-title="Entretenimiento",AXN
+http://45.228.232.219:16000/play/a0m5/index.m3u8
+#EXTINF:-1 tvg-id="AXN1.mx" tvg-name="AXN 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/AXN_2012.png/revision/latest/scale-to-width-down/350?cb=20200130031633&path-prefix=es" group-title="Entretenimiento",AXN 1
+http://45.228.232.219:16000/play/a0od/index.m3u8
+#EXTINF:-1 tvg-id="AXN2.mx" tvg-name="AXN 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/AXN_2012.png/revision/latest/scale-to-width-down/350?cb=20200130031633&path-prefix=es" group-title="Entretenimiento",AXN 2
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/3840
+#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Animal_Planet_2006.svg/revision/latest/scale-to-width-down/160?cb=20210519175540&path-prefix=es" group-title="Entretenimiento",Animal Planet
+http://45.228.232.219:16000/play/a0n4/index.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Cinecanal_2001.png/revision/latest/scale-to-width-down/260?cb=20191214041102&path-prefix=es" group-title="Entretenimiento",Cinecanal
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/3843
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Cinecanal_2001.png/revision/latest/scale-to-width-down/260?cb=20191214041102&path-prefix=es" group-title="Entretenimiento",Cinecanal HD
+http://45.228.232.219:16000/play/a0o9/index.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanetHD.mx" tvg-name="Animal Planet HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Animal_Planet_2006.svg/revision/latest/scale-to-width-down/160?cb=20210519175540&path-prefix=es" group-title="Entretenimiento",Animal Planet HD
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/153674
+#EXTINF:-1 tvg-id="Cinecanal2.mx" tvg-name="Cinecanal 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Cinecanal_2001.png/revision/latest/scale-to-width-down/260?cb=20191214041102&path-prefix=es" group-title="Entretenimiento",Cinecanal 2
+http://45.228.232.219:16000/play/a0ne/index.m3u8
+#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="Studio Universal" tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="Entretenimiento",Studio Universal
+http://45.228.232.219:16000/play/a0o8/index.m3u8
+#EXTINF:-1 tvg-id="WarnerHD.mx" tvg-name="Warner HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_warner-hd_m.png" group-title="Entretenimiento",Warner HD
+http://45.228.232.219:16000/play/a0nc/index.m3u8
+#EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="Star Channel" tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox_m.png" group-title="Entretenimiento",Star Channel
+http://45.228.232.219:16000/play/a0nb/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.mx" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/800px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Entretenimiento",Nickelodeon
+http://45.228.232.219:16000/play/a0ns/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="https://cdn.mitvstatic.com/channels/mx_national-geographic_m.png" group-title="Entretenimiento",National Geographic
+http://45.228.232.219:16000/play/a0m0/index.m3u8
+#EXTINF:-1 tvg-id="HistoryHD.mx" tvg-name="History HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_history-hd_m.png" group-title="Entretenimiento",History HD
+http://45.228.232.219:16000/play/a0md/index.m3u8
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/125px-FX_International_logo.svg.png" group-title="Entretenimiento",FX
+http://45.228.232.219:16000/play/a0kv/index.m3u8
+#EXTINF:-1 tvg-id="Disney.mx" tvg-name="Disney" tvg-logo="https://cdn.mitvstatic.com/channels/mx_disney_m.png" group-title="Entretenimiento",Disney
+http://45.228.232.219:16000/play/a0nt/index.m3u8
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tnt_m.png" group-title="Entretenimiento",TNT
+http://45.228.232.219:16000/play/a0m6/index.m3u8
+#EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="Cine Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cine_Latino_logo.svg/150px-Cine_Latino_logo.svg.png" group-title="Entretenimiento",Cine Latino
+http://45.228.232.219:16000/play/a0o6/index.m3u8
+#EXTINF:-1 tvg-id="CineMax.mx" tvg-name="CineMax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="Entretenimiento",CineMax
+http://45.228.232.219:16000/play/a0o7/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryHome&Health.mx" tvg-name="Discovery Home & Health" tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-home-and-health_m.png" group-title="Entretenimiento",Discovery Home & Health
+http://45.228.232.219:16000/play/a0nw/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="Discovery Kids" tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-kids_m.png" group-title="Entretenimiento",Discovery Kids
+http://45.228.232.219:16000/play/a0nr/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="Discovery Channel" tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-channel_m.png" group-title="Entretenimiento",Discovery Channel
+http://45.228.232.219:16000/play/a0n3/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJR.mx" tvg-name="Disney JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Playhouse_Disney_%282010%29.png/480px-Playhouse_Disney_%282010%29.png" group-title="Entretenimiento",Disney JR
+http://45.228.232.219:16000/play/a0lr/index.m3u8
+#EXTINF:-1 tvg-id="E!.mx" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/35px-E%21_Logo_2012.svg.png" group-title="Entretenimiento",E!
+http://45.228.232.219:16000/play/a0n0/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn_m.png" group-title="Entretenimiento",ESPN
+http://45.228.232.219:16000/play/a0n7/index.m3u8
+#EXTINF:-1 tvg-id="ESPN+.mx" tvg-name="ESPN +" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn_m.png" group-title="Entretenimiento",ESPN +
+http://45.228.232.219:16000/play/a0me/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn_m.png" group-title="Entretenimiento",ESPN 2
+http://45.228.232.219:16000/play/a0n8/index.m3u8
+#EXTINF:-1 tvg-id="ESPN3.mx" tvg-name="ESPN 3" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn_m.png" group-title="Entretenimiento",ESPN 3
+http://45.228.232.219:16000/play/a0l1/index.m3u8
+#EXTINF:-1 tvg-id="ESPN4.mx" tvg-name="ESPN 4" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn_m.png" group-title="Entretenimiento",ESPN 4
+http://45.228.232.219:16000/play/a0o0/index.m3u8
+#EXTINF:-1 tvg-id="ESPNHD.mx" tvg-name="ESPN HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn_m.png" group-title="Entretenimiento",ESPN HD
+http://45.228.232.219:16000/play/a0oc/index.m3u8
+#EXTINF:-1 tvg-id="ElGourmet.mx" tvg-name="El Gourmet" tvg-logo="https://cdn.mitvstatic.com/channels/mx_el-gourmet_m.png" group-title="Entretenimiento",El Gourmet
+http://45.228.232.219:16000/play/a0kz/index.m3u8
+#EXTINF:-1 tvg-id="History2.mx" tvg-name="History 2" tvg-logo="https://cdn.mitvstatic.com/channels/mx_history-hd_m.png" group-title="Entretenimiento",History 2
+http://45.228.232.219:16000/play/a0ky/index.m3u8
+#EXTINF:-1 tvg-id="DisneyID.mx" tvg-name="Disney ID" tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-id_m.png" group-title="Entretenimiento",Disney ID
+http://45.228.232.219:16000/play/a0nx/index.m3u8
+#EXTINF:-1 tvg-id="MTV00s.mx" tvg-name="MTV 00s" tvg-logo="https://cdn.mitvstatic.com/channels/mx_m-tv_m.png" group-title="Entretenimiento",MTV 00s
+http://45.228.232.219:16000/play/a0l6/index.m3u8
+#EXTINF:-1 tvg-id="MTV80s.mx" tvg-name="MTV 80s" tvg-logo="https://cdn.mitvstatic.com/channels/mx_m-tv_m.png" group-title="Entretenimiento",MTV 80s
+http://45.228.232.219:16000/play/a0m4/index.m3u8
+#EXTINF:-1 tvg-id="MTVHD.mx" tvg-name="MTV HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_m-tv_m.png" group-title="Entretenimiento",MTV HD
+http://45.228.232.219:16000/play/a0mf/index.m3u8
+#EXTINF:-1 tvg-id="MTVHits.mx" tvg-name="MTV Hits" tvg-logo="https://cdn.mitvstatic.com/channels/mx_m-tv_m.png" group-title="Entretenimiento",MTV Hits
+http://45.228.232.219:16000/play/a0m3/index.m3u8
+#EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="De Pelicula" tvg-logo="http://daleplaypro.com:8080/images/7873cddaf3a01b83d332c89e07df3601.png" group-title="Entretenimiento",De Pelicula
+http://daleplaypro.com:8080/1bopl31er1ano/4347767hd/63734
+#EXTINF:-1 tvg-id="DePelicula+.mx" tvg-name="De Pelicula +" tvg-logo="http://daleplaypro.com:8080/images/7873cddaf3a01b83d332c89e07df3601.png" group-title="Entretenimiento",De Pelicula +
+http://daleplaypro.com:8080/1bopl31er1ano/4347767hd/63735
+#EXTINF:-1 tvg-id="DePeliculaClasico.mx" tvg-name="De Pelicula Clasico" tvg-logo="http://daleplaypro.com:8080/images/7873cddaf3a01b83d332c89e07df3601.png" group-title="Entretenimiento",De Pelicula Clasico
+http://daleplaypro.com:8080/1bopl31er1ano/4347767hd/63736
+#EXTINF:-1 tvg-id="Multicinema.mx" tvg-name="Multicinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/150px-MC_logo_2022.png" group-title="Entretenimiento",Multicinema
+http://45.228.232.219:16000/play/a0la/index.m3u8
+#EXTINF:-1 tvg-id="Multipremier.mx" tvg-name="Multipremier" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/150px-Multipremier_logo.svg.png" group-title="Entretenimiento",Multipremier
+http://45.228.232.219:16000/play/a0o5/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.mx" tvg-name="Nick Jr" tvg-logo="https://cdn.mitvstatic.com/channels/mx_nick-jr_m.png" group-title="Entretenimiento",Nick Jr
+http://45.228.232.219:16000/play/a0lp/index.m3u8
+#EXTINF:-1 tvg-id="SonyChannel.mx" tvg-name="Sony Channel" tvg-logo="https://cdn.mitvstatic.com/channels/mx_sony_m.png" group-title="Entretenimiento",Sony Channel
+http://45.228.232.219:16000/play/a0nd/index.m3u8
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="Space" tvg-logo="https://cdn.mitvstatic.com/channels/mx_space_m.png" group-title="Entretenimiento",Space
+http://45.228.232.219:16000/play/a0oe/index.m3u8
+#EXTINF:-1 tvg-id="SunChannel.mx" tvg-name="Sun Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Channel_Logo_2022.webp/150px-Sun_Channel_Logo_2022.webp.png" group-title="Entretenimiento",Sun Channel
+http://45.228.232.219:16000/play/a0l0/index.m3u8
+#EXTINF:-1 tvg-id="USA.mx" tvg-name="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/200px-USA_Network_logo_%282016%29.svg.png" group-title="Entretenimiento",USA
+http://45.228.232.219:16000/play/a0n2/index.m3u8
+#EXTINF:-1 tvg-id="TNTNovelas.mx" tvg-name="TNT Novelas" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/TNT_Novelas_logo_2023.svg/revision/latest/scale-to-width-down/150?cb=20230621193156" group-title="Entretenimiento",TNT Novelas
+http://45.228.232.219:16000/play/a0lz/index.m3u8
+#EXTINF:-1 tvg-id="TNTNovelas2.mx" tvg-name="TNT Novela 2s" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/TNT_Novelas_logo_2023.svg/revision/latest/scale-to-width-down/150?cb=20230621193156" group-title="Entretenimiento",TNT Novelas 2
+http://daleplaypro.com:8080/1bopl31er1ano/4347767hd/291339
+#EXTINF:-1 tvg-id="TCM.mx" tvg-name="TCM" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tcm_m.png" group-title="Entretenimiento",TCM
+http://45.228.232.219:16000/play/a0l9/index.m3u8
+#EXTINF:-1 tvg-id="TLC.mx" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TLC_logo_%282023%29.svg/145px-TLC_logo_%282023%29.svg.png" group-title="Entretenimiento",TLC
+http://45.228.232.219:16000/play/a0n6/index.m3u8
+#EXTINF:-1 tvg-id="Telemundo.mx" tvg-name="Telemundo" tvg-logo="https://cdn.mitvstatic.com/channels/mx_telemundo_m.png" group-title="Entretenimiento",Telemundo
+http://45.228.232.219:16000/play/a0lv/index.m3u8
+#EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal TV" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png" group-title="Entretenimiento",Universal TV
+http://45.228.232.219:16000/play/a0o3/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="Fox Sports 3" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-hd_m.png" group-title="Entretenimiento",Fox Sports 3
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/144619
+#EXTINF:-1 tvg-id="FoxSports.mx" tvg-name="Fox Sports" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-hd_m.png" group-title="Entretenimiento",Fox Sports
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/145430
+#EXTINF:-1 tvg-id="FoxSports2.mx" tvg-name="Fox Sports 2" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-hd_m.png" group-title="Entretenimiento",Fox Sports 2
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/145431
+#EXTINF:-1 tvg-id="FoxSports2MX.mx" tvg-name="Fox Sports 2 MX" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-hd_m.png" group-title="Entretenimiento",Fox Sports 2 MX
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/145433
+#EXTINF:-1 tvg-id="FoxSports3MX.mx" tvg-name="Fox Sports 3 MX" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-hd_m.png" group-title="Entretenimiento",Fox Sports 3 MX
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/145434
+#EXTINF:-1 tvg-id="FoxSportsMX.mx" tvg-name="Fox Sports MX" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-hd_m.png" group-title="Entretenimiento",Fox Sports MX
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/145435
+#EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-name="Fox Sports Premium" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-hd_m.png" group-title="Entretenimiento",Fox Sports Premium
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/145439
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/200px-TUDN_Logo.svg.png" group-title="Entretenimiento",TUDN
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/145458
+#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="Comedy Central" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7TNTdX_LycpJoLIlRhhsQs7iVQdf1XtQwwg&usqp=CAU" group-title="Entretenimiento",Antena TV
+http://daleplaypro.com:8080/1bopl31er1ano/4347767hd/63192
+#EXTINF:-1 tvg-id="Unicable.mx" tvg-name="Unicable" tvg-logo="http://daleplay.club:8080/images/acc7de5cb8a06559a2da33ee9bec889e.png" group-title="Entretenimiento",Unicable
+http://daleplaypro.com:8080/1bopl31er1ano/4347767hd/63189
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="Distrito Comedia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8-OZQYKbCJfjV2C44_gCvEeC-xrqomWNIg&usqp=CAU" group-title="Entretenimiento",Distrito Comedia
+http://daleplaypro.com:8080/1bopl31er1ano/4347767hd/63194
+#EXTINF:-1 tvg-id="ViXJajaja.mx" tvg-name="ViX Jajaja" tvg-logo="https://i.imgur.com/UL1JtYb.png" group-title="Entretenimiento",ViX Jajaja
+https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ViXParejas.mx" tvg-name="ViX Parejas" tvg-logo="https://i.imgur.com/7wYK8m6.png" group-title="Entretenimiento",ViX Parejas
+https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id=AMXNoticias.mx tvg-name="AMX Noticias" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="Mexico",AMX Noticias
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal5(Mexico).mx" tvg-name="Canal 5 (Mexico)" tvg-logo="http://mirror.streamhubtv.me:8080/images/442799ddc7e12d6b9edd8324a438bc65.png" group-title="Mexico",Canal 5 (Mexico)
+http://daleplaypro.com:8080/1bopl31er1ano/4347767hd/114283
 #EXTINF:-1 tvg-id="AntenaTV.mx" tvg-name="Antena TV" tvg-logo="https://i.imgur.com/1sAgSME.png" group-title="Mexico",Antena TV
 https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
+#EXTINF:-1 tvg-id="TelevisaMonterrey.mx" tvg-name="Televisa Monterrey" tvg-logo="http://daleplay.club:8080/images/4b90b5a6571d68cba05eb7f52d0de388.png" group-title="Mexico",Televisa Monterrey
+http://daleplaypro.com:8080/1bopl31er1ano/4347767hd/63203
 #EXTINF:-1 tvg-id="APlus.mx" tvg-name="A+" tvg-logo="https://i.imgur.com/TWk9gfd.png" group-title="Mexico",A+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Mexico",Azteca Uno
@@ -333,10 +305,6 @@ https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlis
 https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist.m3u8
 #EXTINF:-1 tvg-id="VBMediaTV(Queretaro).mx" tvg-name="VB Media TV (Queretaro)" tvg-logo="https://i.imgur.com/0W8kHxt.png" group-title="Mexico",VB Media TV (Queretaro)
 https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
-#EXTINF:-1 tvg-id="ViXJajaja.mx" tvg-name="ViX Jajaja" tvg-logo="https://i.imgur.com/UL1JtYb.png" group-title="Mexico",ViX Jajaja
-https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="ViXParejas.mx" tvg-name="ViX Parejas" tvg-logo="https://i.imgur.com/7wYK8m6.png" group-title="Mexico",ViX Parejas
-https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="TVNayarit.mx" tvg-name="TV Nayarit" tvg-logo="https://i.imgur.com/QFI2OdJ.png" group-title="Mexico",TV Nayarit
 https://stream.oursnetworktv.com/latin/encoder73/playlist.m3u8
 #EXTINF:-1 tvg-id="MultimediosSabinas.mx" tvg-name="Multimedios Sabinas" tvg-logo="https://i.imgur.com/EY0DlT0.png" group-title="Mexico",Multimedios Sabinas
@@ -349,32 +317,144 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal6nrt(Saltillo).mx" tvg-name="Canal6 nrt (Saltillo)" tvg-logo="https://i.imgur.com/eFfX2fC.jpg" group-title="Mexico",Canal6 nrt (Saltillo)
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
-#EXTINF:-1 tvg-id="A&E.mx" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1280px-A%26E_Network_logo.svg.png" group-title="Entretenimiento",A&E
-http://45.228.232.219:16000/play/a0n1/index.m3u8
-#EXTINF:-1 tvg-id="A&E1.mx" tvg-name="A&E 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1280px-A%26E_Network_logo.svg.png" group-title="Entretenimiento",A&E 1
-http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/36
-#EXTINF:-1 tvg-id="A&E2.mx" tvg-name="A&E 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1280px-A%26E_Network_logo.svg.png" group-title="Entretenimiento",A&E 2
-http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/3839
-#EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="http://offshore.lat:36995/images/a34b5592645bbea24cc0e8ac51b276dd.png" group-title="Entretenimiento",AMC
-http://offshore.lat:25461/dfgersgr@w/XqeaDgqDaA/263354
-#EXTINF:-1 tvg-id="AMC1.mx" tvg-name="AMC 1" tvg-logo="http://offshore.lat:36995/images/a34b5592645bbea24cc0e8ac51b276dd.png" group-title="Entretenimiento",AMC 1
-http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/3019
-#EXTINF:-1 tvg-id="AMC2.mx" tvg-name="AMC 2" tvg-logo="http://offshore.lat:36995/images/a34b5592645bbea24cc0e8ac51b276dd.png" group-title="Entretenimiento",AMC 2
-http://45.228.232.219:16000/play/a0m7/index.m3u8
-#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/AXN_2012.png/revision/latest/scale-to-width-down/350?cb=20200130031633&path-prefix=es" group-title="Entretenimiento",AXN
-http://45.228.232.219:16000/play/a0m5/index.m3u8
-#EXTINF:-1 tvg-id="AXN1.mx" tvg-name="AXN 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/AXN_2012.png/revision/latest/scale-to-width-down/350?cb=20200130031633&path-prefix=es" group-title="Entretenimiento",AXN 1
-http://45.228.232.219:16000/play/a0od/index.m3u8
-#EXTINF:-1 tvg-id="AXN2.mx" tvg-name="AXN 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/AXN_2012.png/revision/latest/scale-to-width-down/350?cb=20200130031633&path-prefix=es" group-title="Entretenimiento",AXN 2
-http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/3840
-#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Animal_Planet_2006.svg/revision/latest/scale-to-width-down/160?cb=20210519175540&path-prefix=es" group-title="Entretenimiento",Animal Planet
-http://45.228.232.219:16000/play/a0n4/index.m3u8
-#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Cinecanal_2001.png/revision/latest/scale-to-width-down/260?cb=20191214041102&path-prefix=es" group-title="Entretenimiento",Cinecanal
-http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/3843
-#EXTINF:-1 tvg-id="CinecanalHD.mx" tvg-name="Cinecanal HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Cinecanal_2001.png/revision/latest/scale-to-width-down/260?cb=20191214041102&path-prefix=es" group-title="Entretenimiento",Cinecanal HD
-http://45.228.232.219:16000/play/a0o9/index.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanetHD.mx" tvg-name="Animal Planet HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Animal_Planet_2006.svg/revision/latest/scale-to-width-down/160?cb=20210519175540&path-prefix=es" group-title="Entretenimiento",Animal Planet HD
-http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/153674
+#EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="Az Corazon" tvg-logo="https://cdn.mitvstatic.com/channels/mx_az-corazon_m.png" group-title="Mexico",Az Corazon
+http://45.228.232.219:16000/play/a0lw/index.m3u8
+#EXTINF:-1 tvg-id="AzMundo.mx" tvg-name="Az Mundo" tvg-logo="https://cdn.mitvstatic.com/channels/co_az-mundo-hd_m.png" group-title="Mexico",Az Mundo
+http://45.228.232.219:16000/play/a0mx/index.m3u8
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Caracol_2015.png/revision/latest/scale-to-width-down/200?cb=20210217012432&path-prefix=es" group-title="Colombia",Caracol
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/4810
+#EXTINF:-1 tvg-id="Caracol1.co" tvg-name="Caracol 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Caracol_2015.png/revision/latest/scale-to-width-down/200?cb=20210217012432&path-prefix=es" group-title="Colombia",Caracol 1
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/3571
+#EXTINF:-1 tvg-id="Caracol2.co" tvg-name="Caracol 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Caracol_2015.png/revision/latest/scale-to-width-down/200?cb=20210217012432&path-prefix=es" group-title="Colombia",Caracol 2
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/3572
+#EXTINF:-1 tvg-id="Caracol3.co" tvg-name="Caracol 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Caracol_2015.png/revision/latest/scale-to-width-down/200?cb=20210217012432&path-prefix=es" group-title="Colombia",Caracol 3
+http://daleplaypro.com:8080/1bopl31er1ano/4347767hd/69251
+#EXTINF:-1 tvg-id="Caracol4.co" tvg-name="Caracol 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Caracol_2015.png/revision/latest/scale-to-width-down/200?cb=20210217012432&path-prefix=es" group-title="Colombia",Caracol 4
+http://daleplaypro.com:8080/1bopl31er1ano/4347767hd/69253
+#EXTINF:-1 tvg-id="RCN.co" tvg-name="RCN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Canal_RCN_%282019-Dec%29.svg/revision/latest/scale-to-width-down/1000?cb=20210426191756&path-prefix=es" group-title="Colombia",RCN
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/3575
+#EXTINF:-1 tvg-id="RCN1.co" tvg-name="RCN 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Canal_RCN_%282019-Dec%29.svg/revision/latest/scale-to-width-down/1000?cb=20210426191756&path-prefix=es" group-title="Colombia",RCN 1
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/3576
+#EXTINF:-1 tvg-id="ATNTV.co" tvg-name="ATN TV" tvg-logo="https://i.imgur.com/79sX78u.png" group-title="Colombia",ATN TV
+https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
+#EXTINF:-1 tvg-id="MasTV.co" tvg-name="MasTV" tvg-logo="https://cdn.colombia.com/canales/canal-mas-television-5347.jpg" group-title="Colombia",MasTV
+https://movil.ejeserver.com/live/teledoradahd.m3u8
+#EXTINF:-1 tvg-id="MemoriasTV.co" tvg-name="Memorias TV" tvg-logo="https://i.imgur.com/RWC55w7.png" group-title="Colombia",Memorias TV
+https://mediacp.us:8081/8002/index.m3u8
+#EXTINF:-1 tvg-id="MoniTV.co" tvg-name="Moni TV" tvg-logo="https://i.ibb.co/DD6yFVC/descarga.png" group-title="Colombia",Moni TV
+https://servers.amelbasoluciones.co:19360/monitvlive/monitvlive.m3u8
+#EXTINF:-1 tvg-id="Noticiero90Minutos.co"  tvg-name="Noticiero 90 Minutos" tvg-logo="https://i.imgur.com/ThaRRCN.png" group-title="Colombia",Noticiero 90 Minutos
+https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
+#EXTINF:-1 tvg-id="OasisTV.co"  tvg-name="Oasis TV" tvg-logo="https://i.imgur.com/VKYzFpZ.png" group-title="Colombia",Oasis TV
+https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
+#EXTINF:-1 tvg-id="CableNoticiasHD.co" tvg-name="Cable Noticias HD" tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="Colombia",Cable Noticias HD
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
+#EXTINF:-1 tvg-id="CaliTV.co" tvg-name="Cali TV" tvg-logo="https://i.imgur.com/2312Luq.png" group-title="Colombia",Cali TV
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal2Alpavision.co" tvg-name="Canal 2 Alpavision" tvg-logo="https://i.imgur.com/Yv8XIGW.png" group-title="Colombia",Canal 2 Alpavision
+https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalCapital.co" tvg-name="Canal Capital" tvg-logo="https://i.imgur.com/6ozsYtj.png" group-title="Colombia",Canal Capital
+https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalInstitucional.co" tvg-name="Canal Institucional" tvg-logo="https://i.imgur.com/OzxNMDM.png" group-title="Colombia",Canal Institucional
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalNets.co" tvg-name="Canal Nets" tvg-logo="https://i.imgur.com/edaAexc.png" group-title="Colombia",Canal Nets
+https://movil.ejeserver.com/live/nets.m3u8
+#EXTINF:-1 tvg-id="CanalTelePalmar.co" tvg-name="Canal TelePalmar" tvg-logo="https://i.imgur.com/cAhlYUL.png" group-title="Colombia",Canal TelePalmar
+https://play.amelbasoluciones.co:3976/live/telepalmartvlive.m3u8
+#EXTINF:-1 tvg-id="CanalVIP.co" tvg-name="Canal VIP" tvg-logo="https://i.imgur.com/SBo3FBY.png" group-title="Colombia",Canal VIP
+https://play.cdn.enetres.net/B9E570CFE54949C7ABB985D4F8F77F7F021/02267/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalVisionDorada.co" tvg-name="Canal Vision Dorada" tvg-logo="https://i.imgur.com/TerY4iM.png" group-title="Colombia",Canal Vision Dorada
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 tvg-id="Cosmovision.co" tvg-name="Cosmovision" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Cosmovisi%C3%B3n_2009.png/revision/latest/scale-to-width-down/73?cb=20210212135658&path-prefix=es" group-title="Colombia",Cosmovision
+https://videohls2.cosmovision.tv/hls/sd.m3u8
+#EXTINF:-1 tvg-id="CTV.co" tvg-name="CTV Barranquilla" tvg-logo="https://i.imgur.com/w35ICn7.png" group-title="Colombia",CTV Barranquilla
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
+#EXTINF:-1 tvg-id="CableNoticias.co" tvg-name="Cable Noticias" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cablenoticias-co.png" group-title="Colombia",Cable Noticias
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/chunklist_w1591266264.m3u8
+#EXTINF:-1 tvg-id="NoticiasCaracol.co" tvg-name="Noticias Caracol" tvg-logo="https://graph.facebook.com/NoticiasCaracol/picture?width=200&height=200" group-title="Colombia",Noticias Caracol
+https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
+#EXTINF:-1 tvg-id="CNCMonteria.co" tvg-name="CNC Monteria" tvg-logo="https://cncmonteria.com/wp-content/uploads/2022/02/cropped-CNCMONTERUABLANCOCOOOO-300x108-1.png" group-title="Colombia",CNC Monteria
+https://stmv4.voxtvhd.com.br/cncmonteria/cncmonteria/playlist.m3u8
+#EXTINF:-1 tvg-id="CNCMedellin.co" tvg-name="CNC Medellín" tvg-logo="https://i.imgur.com/J1f4fNq.png" group-title="Colombia",CNC Medellín
+http://cncmedellin.ddns.net:1935/canalcnc/canalcnc_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="ATV.co" tvg-name="ATV" tvg-logo="https://i.imgur.com/giPOGyi.png" group-title="Colombia",ATV
+https://movil.ejeserver.com/live/verteve.m3u8
+#EXTINF:-1 tvg-id="AvivamientoTV.co" tvg-name="Avivamiento TV" tvg-logo="https://i.imgur.com/7YB94Hf.png" group-title="Colombia",Avivamiento TV
+https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
+#EXTINF:-1 tvg-id="HuilaTV.co" tvg-name="Huila TV" tvg-logo="https://i.imgur.com/hFlGHNZ.png" group-title="Colombia",Huila TV
+https://plataformavideo.com:19360/8020/8020.m3u8
+#EXTINF:-1 tvg-id="MulticanalTelevision.co" tvg-name="Multicanal Televisión" tvg-logo="https://i.imgur.com/hPxt2OK.png" group-title="Colombia",Multicanal Televisión
+https://ssh101.bozztv.com/ssh101/KIOCApP/playlist.m3u8
+#EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="RCN Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/205px-RCN_Novelas_logo_2019.png" group-title="Colombia",RCN Novelas
+http://45.228.232.219:16000/play/a0kw/index.m3u8
+#EXTINF:-1 tvg-id="101tvMalaga.es" tvg-name="101 TV Malaga" tvg-logo="https://i.imgur.com/CXHLhZD.png" group-title="España",101 TV Malaga
+https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
+#EXTINF:-1 tvg-id="28kanala.es" tvg-name="28 Kanala" tvg-logo="https://i.imgur.com/DyvK28q.png" group-title="España",28 Kanala
+https://5940924978228.streamlock.net/8157/8157/master.m3u8
+#EXTINF:-1 tvg-id="Canal8(España).es" tvg-name="Canal 8 (España)" tvg-logo="https://i.imgur.com/BTJvvBK.png" group-title="España",Canal 8 (España)
+https://streaming005.gestec-video.com/hls/canal24.m3u8
+#EXTINF:-1 tvg-id="AfortunadasTV.es" tvg-name="Afortunadas TV" tvg-logo="https://i.imgur.com/geVZYUA.png" group-title="España",Afortunadas TV
+https://cloudvideo.servers10.com:8081/8108/index.m3u8
+#EXTINF:-1 tvg-id="Anaylos7PlutoTVHD.es" tvg-name="Ana y los 7 Pluto TV HD" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/73b3296df3844854d02bb72584b13d47efc559e84628c44e8b8ad7ef93069982._AC_SX480_FMwebp_.jpg" group-title="España",Ana y los 7 Pluto TV HD
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acce7f17797000718f9be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="AragonTV.es" tvg-name="Aragon TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_aragon_tv_2016.png" group-title="España",Aragon TV
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+#EXTINF:-1 tvg-id="InteralmeriaTV.es"  tvg-name="Interalmeria TV" tvg-logo="https://i.imgur.com/ulSkAjZ.png" group-title="España",Interalmeria TV
+https://interalmeria.tv/directo/live.m3u8
+#EXTINF:-1 tvg-id="IntercomarcalTV.es" tvg-name="Intercomarcal TV" tvg-logo="https://i.imgur.com/KLPSnAT.png" group-title="España",Intercomarcal TV
+https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
+#EXTINF:-1 tvg-id="La2Canarias.es" tvg-name="La 2 Canarias" tvg-logo="https://i.imgur.com/iwDi3ND.png" group-title="España",La 2 Canarias
+https://rtvelivestream.akamaized.net/rtvesec/can/la2_can_main_dvr.m3u8
+#EXTINF:-1 tvg-id="LancelotTV.es" tvg-name="Lancelot TV" tvg-logo="https://i.imgur.com/RlzVIJP.png" group-title="España",Lancelot TV
+https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
+#EXTINF:-1 tvg-id="LaUrbanTV.es" tvg-name="La Urban TV" tvg-logo="https://i.imgur.com/hythjEn.png" group-title="España",La Urban TV
+https://urbanrevolution.es:8443/live/TV/playlist.m3u8
+#EXTINF:-1 tvg-id="LogosTV.es" tvg-name="Logos TV" tvg-logo="https://i.imgur.com/Kr3U3Ub.png" group-title="España",Logos TV
+https://streamer1.streamhost.org/salive/logosH/master.m3u8
+#EXTINF:-1 tvg-id="Mijas340TV.es" tvg-name="Mijas 340 TV" tvg-logo="https://i.imgur.com/RH1zLLs.png" group-title="España",Mijas 340 TV
+https://streaming004.gestec-video.com/hls/MIJAS.m3u8
+#EXTINF:-1 tvg-id="MirameTV.es" tvg-name="Mirame TV" tvg-logo="https://i.imgur.com/LK4pLgT.png" group-title="España",Mirame TV
+https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
+#EXTINF:-1 tvg-id="MolahitsTV.es" tvg-name="Molahits TV" tvg-logo="https://i.imgur.com/FYcLtqT.png" group-title="España",Molahits TV
+http://ventdelnord.tv:8080/mola/directe.m3u8
+#EXTINF:-1 tvg-id="MyTimeMovieNetworkSpain.es" tvg-name="My Time Movie Network Spain" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="España",My Time Movie Network Spain
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NegociosTV.es" tvg-name="Negocios TV" tvg-logo="https://i.imgur.com/iXYfCBd.png" group-title="España",Negocios TV
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+#EXTINF:-1 tvg-id="NoroesteTV.es" tvg-name="Noroeste TV" tvg-logo="https://i.imgur.com/s6V8rQd.png" group-title="España",Noroeste TV
+https://cloudvideo.servers10.com:8081/8032/index.m3u8
+#EXTINF:-1 tvg-id="Nortevision.es" tvg-name="Nortevision" tvg-logo="https://i.imgur.com/C5SYw7B.png" group-title="España",Nortevision
+http://amaru.dyndns.org:8870/0.m3u8
+#EXTINF:-1 tvg-id="ActivaTV.es" tvg-name="Activa TV" tvg-logo="https://i.imgur.com/VCUZKiw.png" group-title="España",Activa TV
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+#EXTINF:-1 tvg-id="Anaylos7PlutoTV.es" tvg-name="Ana y los 7 Pluto TV" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/73b3296df3844854d02bb72584b13d47efc559e84628c44e8b8ad7ef93069982._AC_SX480_FMwebp_.jpg" group-title="España",Ana y los 7 Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acce7f17797000718f9be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="BailenTV.es" tvg-name="Bailen TV" tvg-logo="https://i.imgur.com/a64hwzq.png" group-title="España",Bailen TV
+http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCDramaSpain.es" tvg-name="BBC Drama Spain" tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="España",BBC Drama Spain
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="Beteve.es" tvg-name="Beteve " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Logotip_betev%C3%A9.svg/512px-Logotip_betev%C3%A9.svg.png" group-title="España",Beteve 
+https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
+#EXTINF:-1 tvg-id="BonDiaTV.es" tvg-name="Bon Dia TV" tvg-logo="https://i.imgur.com/90WOoro.png" group-title="España",Bon Dia TV
+https://directes-tv-int.ccma.cat/live-origin/bondia-hls/master.m3u8
+#EXTINF:-1 tvg-id="BurrianaTeVe.es" tvg-name="BurrianaTeVe" tvg-logo="https://i.imgur.com/G3nIGHh.png" group-title="España",BurrianaTeVe
+https://www.burrianateve.com/hls/btv.m3u8
+#EXTINF:-1 tvg-id="CadenaElite.es" tvg-name="Cadena Elite" tvg-logo="https://i.imgur.com/3yeGDTP.png" group-title="España",Cadena Elite
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
+#EXTINF:-1 tvg-id="Canal2000.es" tvg-name="Canal 2000" tvg-logo="https://i.imgur.com/9RoBASf.png" group-title="España",Canal 2000
+http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8
+#EXTINF:-1 tvg-id="Antena3Internacional.es" tvg-name="Antena 3 Internacional" tvg-logo="http://daleplay.club:8080/images/27f92bbfb6c1e0868fbf28918f28a66d.png" group-title="España",Antena 3 Internacional
+http://daleplaypro.com:8080/1bopl31er1ano/4347767hd/110048
+#EXTINF:-1 tvg-id="A3Series.es" tvg-name="A3Series" tvg-logo="https://cdn.mitvstatic.com/channels/ar_atreseries_m.png" group-title="España",A3Series
+http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/126387
+#EXTINF:-1 tvg-id="A3Series2.es" tvg-name="A3Series 2" tvg-logo="https://cdn.mitvstatic.com/channels/ar_atreseries_m.png" group-title="España",A3Series 2
+http://daleplaypro.com:8080/1bopl31er1ano/4347767hd/110059
+#EXTINF:-1 tvg-id="AlegreTVRD.do" tvg-name="Alegre TVRD" tvg-logo="https://i.imgur.com/O6USO8r.png" group-title="Republica Dominicana",Alegre TVRD
+https://vsrv2.az-streamingserver.com:3149/live/alegretvlive.m3u8
+#EXTINF:-1 tvg-id="MisionELTV.do" tvg-name="Mision ELTV" tvg-logo="https://i.imgur.com/hwC1stN.png" group-title="Republica Dominicana",Mision ELTV
+https://paz.sytes.net:5443/live/streams/misioneltv.m3u8
+#EXTINF:-1 tvg-id="NaranjaTV.do" tvg-name="Naranja TV" tvg-logo="https://i.imgur.com/g7iFN3s.png" group-title="Republica Dominicana",Naranja TV
+https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8
 #EXTINF:-1 tvg-id="Antena7.do" tvg-name="Antena 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Antena_Latina_2016.webp/270px-Antena_Latina_2016.webp.png" group-title="Republica Dominicana",Antena 7
 http://45.228.232.219:16000/play/a0li/index.m3u8
 #EXTINF:-1 tvg-id="AIONTV.do" tvg-name="AION TV" tvg-logo="https://i.imgur.com/DBvm7YS.png" group-title="Republica Dominicana",AION TV
@@ -395,7 +475,7 @@ https://cloudflare.streamgato.us:3044/live/morrotvlive.m3u8
 https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 #EXTINF:-1 tvg-id="RadioTV.do" tvg-name="Radio TV" tvg-logo="https://i.imgur.com/7oNe8xj.png" group-title="Republica Dominicana",Radio TV
 https://cdn.002radio.com:3909/live/radio002live.m3u8
-#EXTINF:-1 tvg-id="Canal6.rd" tvg-name="Canal 6" tvg-logo="https://i.imgur.com/kuv6S3j.png" group-title="Republica Dominicana",Canal 6
+#EXTINF:-1 tvg-id="Canal6(Republica Dominicana).rd" tvg-name="Canal 6 (Republica Dominicana)" tvg-logo="https://i.imgur.com/kuv6S3j.png" group-title="Republica Dominicana",Canal 6 (Republica Dominicana)
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 #EXTINF:-1 tvg-id="Area809ElOriginal.do" tvg-name="Area 809ElOriginal" tvg-logo="https://i.ibb.co/WkMfnGs/Channels4-profile-8.jpg" group-title="Republica Dominicana",Area 809ElOriginal
 https://samson.streamerr.co:8081/rudydurisimotv/index.m3u8
@@ -405,128 +485,74 @@ https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8
 https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
 #EXTINF:-1 tvg-id="CaminoRealTV.do" tvg-name="Camino Real" tvg-logo="https://i.imgur.com/2GAEWhn.png" group-title="Republica Dominicana",Camino Real
 https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal25.do" tvg-name="Canal 25" tvg-logo="https://i.imgur.com/lmWu73V.png" group-title="Republica Dominicana",Canal 25
+#EXTINF:-1 tvg-id="Canal25(Republica Dominicana).do" tvg-name="Canal 25 (Republica Dominicana)" tvg-logo="https://i.imgur.com/lmWu73V.png" group-title="Republica Dominicana",Canal 25 (Republica Dominicana)
 https://ss3.domint.net:3150/c25_str/canal25/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal4.rd" tvg-name="Canal 4" tvg-logo="https://i.imgur.com/eiqpffH.png" group-title="Republica Dominicana",Canal 4
+#EXTINF:-1 tvg-id="Canal4(Republica Dominicana).rd" tvg-name="Canal 4 (Republica Dominicana)" tvg-logo="https://i.imgur.com/eiqpffH.png" group-title="Republica Dominicana",Canal 4 (Republica Dominicana)
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal56.do" tvg-name="Canal 56" tvg-logo="https://i.imgur.com/HcLs5eM.png" group-title="Republica Dominicana",Canal 56
+#EXTINF:-1 tvg-id="Canal56(Republica Dominicana).do" tvg-name="Canal 56 (Republica Dominicana)" tvg-logo="https://i.imgur.com/HcLs5eM.png" group-title="Republica Dominicana",Canal 56 (Republica Dominicana)
 https://cdn5.streamgato.us:3371/live/canal56live.m3u8
-#EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="Az Corazon" tvg-logo="https://cdn.mitvstatic.com/channels/mx_az-corazon_m.png" group-title="Mexico",Az Corazon
-http://45.228.232.219:16000/play/a0lw/index.m3u8
-#EXTINF:-1 tvg-id="AzMundo.mx" tvg-name="Az Mundo" tvg-logo="https://cdn.mitvstatic.com/channels/co_az-mundo-hd_m.png" group-title="Mexico",Az Mundo
-http://45.228.232.219:16000/play/a0mx/index.m3u8
-#EXTINF:-1 tvg-id="Canal3.gua" tvg-name="Canal 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Canal_3_Guatemala_2022.png/revision/latest/scale-to-width-down/60?cb=20221130180631&path-prefix=es" group-title="Guatemala",Canal 3
-http://45.228.232.219:16000/play/a0ml/index.m3u8
-#EXTINF:-1 tvg-id="CinecanalHD.mx" tvg-name="Cinecanal HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Cinecanal_2001.png/revision/latest/scale-to-width-down/260?cb=20191214041102&path-prefix=es" group-title="Entretenimiento",Cinecanal HD
-http://45.228.232.219:16000/play/a0ne/index.m3u8
-#EXTINF:-1 tvg-id="Mega.ch" tvg-name="Mega" tvg-logo="https://www.google.com.co/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FMega_%2528canal_de_televisi%25C3%25B3n_de_Chile%2529&psig=AOvVaw1bztGaHQ7odgPW7f_lqYAi&ust=1703919470586000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODij-2ItIMDFQAAAAAdAAAAABAD" group-title="Chile",Mega
-http://181.78.22.70:8000/play/a05z/index.m3u8
 #EXTINF:-1 tvg-id="OrbitTV.rd" tvg-name="Orbit TV" tvg-logo="https://orbittv.net/images/orbit_logo4.png" group-title="Republica Dominicana",Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+#EXTINF:-1 tvg-id="88Stereo.cr" tvg-name="88 Stereo" tvg-logo="https://i.imgur.com/i3YwORV.png" group-title="Costa Rica",88 Stereo
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-name="Agrotendencia TV" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Costa Rica",Agrotendencia TV
+https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
+#EXTINF:-1 tvg-id="AnexionTV.cr" tvg-name="Anexion TV" tvg-logo="https://i.imgur.com/7pfXF8N.png" group-title="Costa Rica",Anexion TV
+https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-id="LimonTV.cr" tvg-name="Limon TV" tvg-logo="https://i.ibb.co/rdpcv7C/1689421727166.jpg" group-title="Costa Rica",Limon TV
+http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
+#EXTINF:-1 tvg-id="LosSantosTV.cr" tvg-name="Los Santos TV" tvg-logo="https://i.imgur.com/5xw86wu.png" group-title="Costa Rica",Los Santos TV
+https://lstv.duckdns.org:449/hls/lstv.m3u8
+#EXTINF:-1 tvg-id="LuzNacienteTV.cr" tvg-name="Luz Naciente TV" tvg-logo="https://i.imgur.com/GC2lubh.png" group-title="Costa Rica",Luz Naciente TV
+https://streeming.protoscr.com:3858/live/streeminglive.m3u8
+#EXTINF:-1 tvg-id="NicoyaTV.cr" tvg-name="Nicoya TV" tvg-logo="https://i.imgur.com/Lj2jRn3.png" group-title="Costa Rica",Nicoya TV
+https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
+#EXTINF:-1 tvg-id="NorteInformativoTV.cr" tvg-name="Norte Informativo TV" tvg-logo="https://i.ibb.co/2MNzXN7/Channels4-profile-9.jpg" group-title="Costa Rica",Norte Informativo TV
+https://videohd.live:19360/8076/8076.m3u8
+#EXTINF:-1 tvg-id="Canal11(Costa Rica).cr" tvg-name="Canal 11 (Costa Rica)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/512px-Repretel_11_logo.png" group-title="Costa Rica",Canal 11 (Costa Rica)
+http://45.228.232.219:16000/play/a0kq/index.m3u8
+#EXTINF:-1 tvg-id="Canal2(Costa Rica).cr" tvg-name="Canal 2 (Costa Rica)" tvg-logo="https://i.imgur.com/Nn8BtH5.png" group-title="Costa Rica",Canal 2 (Costa Rica)
+https://d25v5vivhcrrh5.cloudfront.net/hls/canal2.m3u8
+#EXTINF:-1 tvg-id="Canal4(Costa Rica).cr" tvg-name="Canal 4 (Costa Rica)" tvg-logo="https://i.imgur.com/5arZEgO.png" group-title="Costa Rica",Canal 4 (Costa Rica)
+http://45.228.232.219:16000/play/a0mv/index.m3u8
+#EXTINF:-1 tvg-id="Canal6(Costa Rica).cr" tvg-name="Canal 6 (Costa Rica)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Repretel_Canal_6_%28Actual%29.png" group-title="Costa Rica",Canal 6 (Costa Rica)
+http://45.228.232.219:16000/play/a0kp/index.m3u8
+#EXTINF:-1 tvg-id="MultimediosCostaRica.co" tvg-name="Multimedios Costa Rica" tvg-logo="https://scontent.fmex1-2.fna.fbcdn.net/v/t39.30808-6/277735539_3093879607544554_7843806063842294288_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHUNVFvfKRtMOleewDb-2GC1ialwlTonOzWJqXCVOic7MrVKWPSViBoXZetMtPhqlA6-15vsiOxe8mjGcEv0SEn&_nc_ohc=gySWJVucczsAX8lMYXb&_nc_ht=scontent.fmex1-2.fna&cb_e2o_trans=t&oh=00_AfBv2CSonmWBdozULFi8uiSSYamUGEmw6Kfa3x0su9cgkA&oe=655FF4AD" group-title="Costa Rica",Multimedios Costa Rica
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:-1 tvg-id="Canal5DelPuebloAlcorta.ar" tvg-name="Canal 5 Del Pueblo Alcorta" tvg-logo="https://i.ibb.co/XzcYYMc/Canal-5-alcorta-ver.jpg" group-title="Argentina",Canal 5 Del Pueblo Alcorta
+https://stmv1.cnarlatam.com/canal5pueblo/canal5pueblo/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMarcosJuarez2.ar" tvg-name="TV Marcos Juarez 2" tvg-logo="https://static.hosteltur.com/app/public/uploads/img/articles/2021/10/29/L_092304_buenos-aires004.jpg" group-title="Argentina",TV Marcos Juarez 2
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0128
+#EXTINF:-1 tvg-id="TVCordoba.ar" tvg-name="TV Cordova" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/LatinaTV-Cordoba-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title="Argentina",TV Cordova
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0118
+#EXTINF:-1 tvg-id="Canal2BuenosAires.ar" tvg-name="Canal 2 Buenos Aires" tvg-logo="https://static.wikia.nocookie.net/tvficticia/images/c/c2/Argenvisi%C3%B3n_1960-1965.png/revision/latest?cb=20230629041248&path-prefix=es" group-title="Argentina",Canal 2 Buenos Aires
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0102
+#EXTINF:-1 tvg-id="LaX.pr" tvg-name="La X" tvg-logo="https://i.imgur.com/i2GnQTq.png" group-title="Puerto Rico",La X
+https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8
+#EXTINF:-1 tvg-id="MasterVideo.pr" tvg-name="Master Video" tvg-logo="https://i.imgur.com/0jj9Vx0.png" group-title="Puerto Rico",Master Video
+https://5fd5567570c0e.streamlock.net/222/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BuenaTV.pr" tvg-name="Buena TV" tvg-logo="https://i.imgur.com/tsajuxi.png" group-title="Puerto Rico",Buena TV
+https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal10(Honduras).hn" tvg-name="Canal 10 (Honduras)" tvg-logo="https://tencanal10.tv/wp-content/uploads/2023/04/cropped-TEN-BUEN-CANAL.png" group-title="Honduras",Canal 10 (Honduras)
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+#EXTINF:-1 tvg-id="Canal9.pe" tvg-name="CNC Cajamarca" tvg-logo="https://i.imgur.com/l9OJjoT.png" group-title="Peru",CNC Cajamarca
+https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
+#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name="Ecuavisa" tvg-logo="http://daleplay.club:8080/images/260a3ee69f6fbe9eb7532a08101378bf.jpg" group-title="Ecuador",Ecuavisa
+http://daleplaypro.com:8080/1bopl31er1ano/4347767hd/309
+#EXTINF:-1 tvg-id="Canal3(Guatemala).gua" tvg-name="Canal 3 (Guatemala)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Canal_3_Guatemala_2022.png/revision/latest/scale-to-width-down/60?cb=20221130180631&path-prefix=es" group-title="Guatemala",Canal 3 (Guatemala)
+http://45.228.232.219:16000/play/a0ml/index.m3u8
+#EXTINF:-1 tvg-id="Mega.ch" tvg-name="Mega" tvg-logo="https://www.google.com.co/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FMega_%2528canal_de_televisi%25C3%25B3n_de_Chile%2529&psig=AOvVaw1bztGaHQ7odgPW7f_lqYAi&ust=1703919470586000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODij-2ItIMDFQAAAAAdAAAAABAD" group-title="Chile",Mega
+http://181.78.22.70:8000/play/a05z/index.m3u8
+#EXTINF:-1 tvg-id="AFVEspanol.us" tvg-name="AFV Español" tvg-logo="https://i.imgur.com/HUK4WXC.png" group-title="USA",AFV Español
+https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="3ABNLatino.us" tvg-name="3ABN Latino " tvg-logo="https://i.imgur.com/If6rCuD.png" group-title="USA",3ABN Latino 
+https://3abn-live.akamaized.net/hls/live/2010547/Latino/playlist.m3u8
+#EXTINF:-1 tvg-id="VallenatoInternacional.us" tvg-name="Vallenato Internacional" tvg-logo="https://play-lh.googleusercontent.com/K1TgB4CCqWoTDhky17R_YXYCEEunpDZwmEHGXq8w0cv5j2BlN8LyyhoOaHMLuo0wnEg=w240-h480-rw" group-title="USA",Vallenato Internacional
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal3(Francia).fr" tvg-name="Canal 3 (Francia)" tvg-logo="https://i.imgur.com/B5gsM7m.png" group-title="Francia",Canal 3 (Francia)
+https://3abn-live.akamaized.net/hls/live/2010546/French/master.m3u8
 #EXTINF:-1 tvg-id="Heroico.mov" tvg-name="Heroico" tvg-logo="https://static.cinepolis.com/img/peliculas/43452/1/1/43452.jpg" group-title="Movie",Heroico
 https://hfs282.serversicuro.cc/hls/dnzpfpwd2pg4a3gyvcrx533vqkcutqfygvcw6g2ig,sbka2gh54vrnjjpw3pa,jikc2gh54vse2nusfeq,.urlset/master.m3u8
-#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="Studio Universal" tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="Entretenimiento",Studio Universal
-http://45.228.232.219:16000/play/a0o8/index.m3u8
-#EXTINF:-1 tvg-id="WarnerHD.mx" tvg-name="Warner HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_warner-hd_m.png" group-title="Entretenimiento",Warner HD
-http://45.228.232.219:16000/play/a0nc/index.m3u8
-#EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="Star Channel" tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox_m.png" group-title="Entretenimiento",Star Channel
-http://45.228.232.219:16000/play/a0nb/index.m3u8
-#EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="RCN Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/205px-RCN_Novelas_logo_2019.png" group-title="Colombia",RCN Novelas
-http://45.228.232.219:16000/play/a0kw/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.mx" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/800px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Entretenimiento",Nickelodeon
-http://45.228.232.219:16000/play/a0ns/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="https://cdn.mitvstatic.com/channels/mx_national-geographic_m.png" group-title="Entretenimiento",National Geographic
-http://45.228.232.219:16000/play/a0m0/index.m3u8
-#EXTINF:-1 tvg-id="HistoryHD.mx" tvg-name="History HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_history-hd_m.png" group-title="Entretenimiento",History HD
-http://45.228.232.219:16000/play/a0md/index.m3u8
-#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/125px-FX_International_logo.svg.png" group-title="Entretenimiento",FX
-http://45.228.232.219:16000/play/a0kv/index.m3u8
-#EXTINF:-1 tvg-id="Disney.mx" tvg-name="Disney" tvg-logo="https://cdn.mitvstatic.com/channels/mx_disney_m.png" group-title="Entretenimiento",Disney
-http://45.228.232.219:16000/play/a0nt/index.m3u8
-#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tnt_m.png" group-title="Entretenimiento",TNT
-http://45.228.232.219:16000/play/a0m6/index.m3u8
-#EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="Cine Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cine_Latino_logo.svg/150px-Cine_Latino_logo.svg.png" group-title="Entretenimiento",Cine Latino
-http://45.228.232.219:16000/play/a0o6/index.m3u8
-#EXTINF:-1 tvg-id="CineMax.mx" tvg-name="CineMax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="Entretenimiento",CineMax
-http://45.228.232.219:16000/play/a0o7/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryHome&Health.mx" tvg-name="Discovery Home & Health" tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-home-and-health_m.png" group-title="Entretenimiento",Discovery Home & Health
-http://45.228.232.219:16000/play/a0nw/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="Discovery Kids" tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-kids_m.png" group-title="Entretenimiento",Discovery Kids
-http://45.228.232.219:16000/play/a0nr/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="Discovery Channel" tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-channel_m.png" group-title="Entretenimiento",Discovery Channel
-http://45.228.232.219:16000/play/a0n3/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJR.mx" tvg-name="Disney JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Playhouse_Disney_%282010%29.png/480px-Playhouse_Disney_%282010%29.png" group-title="Entretenimiento",Disney JR
-http://45.228.232.219:16000/play/a0lr/index.m3u8
-#EXTINF:-1 tvg-id="E!.mx" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/35px-E%21_Logo_2012.svg.png" group-title="Entretenimiento",E!
-http://45.228.232.219:16000/play/a0n0/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn_m.png" group-title="Entretenimiento",ESPN
-http://45.228.232.219:16000/play/a0n7/index.m3u8
-#EXTINF:-1 tvg-id="ESPN+.mx" tvg-name="ESPN +" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn_m.png" group-title="Entretenimiento",ESPN +
-http://45.228.232.219:16000/play/a0me/index.m3u8
-#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn_m.png" group-title="Entretenimiento",ESPN 2
-http://45.228.232.219:16000/play/a0n8/index.m3u8
-#EXTINF:-1 tvg-id="ESPN3.mx" tvg-name="ESPN 3" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn_m.png" group-title="Entretenimiento",ESPN 3
-http://45.228.232.219:16000/play/a0l1/index.m3u8
-#EXTINF:-1 tvg-id="ESPN4.mx" tvg-name="ESPN 4" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn_m.png" group-title="Entretenimiento",ESPN 4
-http://45.228.232.219:16000/play/a0o0/index.m3u8
-#EXTINF:-1 tvg-id="ESPNHD.mx" tvg-name="ESPN HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn_m.png" group-title="Entretenimiento",ESPN HD
-http://45.228.232.219:16000/play/a0oc/index.m3u8
-#EXTINF:-1 tvg-id="ElGourmet.mx" tvg-name="El Gourmet" tvg-logo="https://cdn.mitvstatic.com/channels/mx_el-gourmet_m.png" group-title="Entretenimiento",El Gourmet
-http://45.228.232.219:16000/play/a0kz/index.m3u8
-#EXTINF:-1 tvg-id="History2.mx" tvg-name="History 2" tvg-logo="https://cdn.mitvstatic.com/channels/mx_history-hd_m.png" group-title="Entretenimiento",History 2
-http://45.228.232.219:16000/play/a0ky/index.m3u8
-#EXTINF:-1 tvg-id="DisneyID.mx" tvg-name="Disney ID" tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-id_m.png" group-title="Entretenimiento",Disney ID
-http://45.228.232.219:16000/play/a0nx/index.m3u8
-#EXTINF:-1 tvg-id="MTV00s.mx" tvg-name="MTV 00s" tvg-logo="https://cdn.mitvstatic.com/channels/mx_m-tv_m.png" group-title="Entretenimiento",MTV 00s
-http://45.228.232.219:16000/play/a0l6/index.m3u8
-#EXTINF:-1 tvg-id="MTV80s.mx" tvg-name="MTV 80s" tvg-logo="https://cdn.mitvstatic.com/channels/mx_m-tv_m.png" group-title="Entretenimiento",MTV 80s
-http://45.228.232.219:16000/play/a0m4/index.m3u8
-#EXTINF:-1 tvg-id="MTVHD.mx" tvg-name="MTV HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_m-tv_m.png" group-title="Entretenimiento",MTV HD
-http://45.228.232.219:16000/play/a0mf/index.m3u8
-#EXTINF:-1 tvg-id="MTVHits.mx" tvg-name="MTV Hits" tvg-logo="https://cdn.mitvstatic.com/channels/mx_m-tv_m.png" group-title="Entretenimiento",MTV Hits
-http://45.228.232.219:16000/play/a0m3/index.m3u8
-#EXTINF:-1 tvg-id="Multicinema.mx" tvg-name="Multicinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/150px-MC_logo_2022.png" group-title="Entretenimiento",Multicinema
-http://45.228.232.219:16000/play/a0la/index.m3u8
-#EXTINF:-1 tvg-id="Multipremier.mx" tvg-name="Multipremier" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/150px-Multipremier_logo.svg.png" group-title="Entretenimiento",Multipremier
-http://45.228.232.219:16000/play/a0o5/index.m3u8
-#EXTINF:-1 tvg-id="NickJr.mx" tvg-name="Nick Jr" tvg-logo="https://cdn.mitvstatic.com/channels/mx_nick-jr_m.png" group-title="Entretenimiento",Nick Jr
-http://45.228.232.219:16000/play/a0lp/index.m3u8
-#EXTINF:-1 tvg-id="SonyChannel.mx" tvg-name="Sony Channel" tvg-logo="https://cdn.mitvstatic.com/channels/mx_sony_m.png" group-title="Entretenimiento",Sony Channel
-http://45.228.232.219:16000/play/a0nd/index.m3u8
-#EXTINF:-1 tvg-id="Space.mx" tvg-name="Space" tvg-logo="https://cdn.mitvstatic.com/channels/mx_space_m.png" group-title="Entretenimiento",Space
-http://45.228.232.219:16000/play/a0oe/index.m3u8
-#EXTINF:-1 tvg-id="SunChannel.mx" tvg-name="Sun Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Channel_Logo_2022.webp/150px-Sun_Channel_Logo_2022.webp.png" group-title="Entretenimiento",Sun Channel
-http://45.228.232.219:16000/play/a0l0/index.m3u8
-#EXTINF:-1 tvg-id="USA.mx" tvg-name="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/200px-USA_Network_logo_%282016%29.svg.png" group-title="Entretenimiento",USA
-http://45.228.232.219:16000/play/a0n2/index.m3u8
-#EXTINF:-1 tvg-id="TNTNovelas.mx" tvg-name="TNT Novelas" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/TNT_Novelas_logo_2023.svg/revision/latest/scale-to-width-down/150?cb=20230621193156" group-title="Entretenimiento",TNT Novelas
-http://45.228.232.219:16000/play/a0lz/index.m3u8
-#EXTINF:-1 tvg-id="TCM.mx" tvg-name="TCM" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tcm_m.png" group-title="Entretenimiento",TCM
-http://45.228.232.219:16000/play/a0l9/index.m3u8
-#EXTINF:-1 tvg-id="TLC.mx" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TLC_logo_%282023%29.svg/145px-TLC_logo_%282023%29.svg.png" group-title="Entretenimiento",TLC
-http://45.228.232.219:16000/play/a0n6/index.m3u8
-#EXTINF:-1 tvg-id="Telemundo.mx" tvg-name="Telemundo" tvg-logo="https://cdn.mitvstatic.com/channels/mx_telemundo_m.png" group-title="Entretenimiento",Telemundo
-http://45.228.232.219:16000/play/a0lv/index.m3u8
-#EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal TV" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png" group-title="Entretenimiento",Universal TV
-http://45.228.232.219:16000/play/a0o3/index.m3u8
-#EXTINF:-1 tvg-id="A3Series.es" tvg-name="A3Series" tvg-logo="https://cdn.mitvstatic.com/channels/ar_atreseries_m.png" group-title="Entretenimiento",A3Series
-http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/126387
-#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="Fox Sports 3" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-hd_m.png" group-title="Entretenimiento",Fox Sports 3
-http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/144619
-#EXTINF:-1 tvg-id="FoxSports.mx" tvg-name="Fox Sports" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-hd_m.png" group-title="Entretenimiento",Fox Sports
-http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/145430
-#EXTINF:-1 tvg-id="FoxSports2.mx" tvg-name="Fox Sports 2" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-hd_m.png" group-title="Entretenimiento",Fox Sports 2
-http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/145431
-#EXTINF:-1 tvg-id="FoxSports2MX.mx" tvg-name="Fox Sports 2 MX" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-hd_m.png" group-title="Entretenimiento",Fox Sports 2 MX
-http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/145433
-#EXTINF:-1 tvg-id="FoxSports3MX.mx" tvg-name="Fox Sports 3 MX" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-hd_m.png" group-title="Entretenimiento",Fox Sports 3 MX
-http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/145434
-#EXTINF:-1 tvg-id="FoxSportsMX.mx" tvg-name="Fox Sports MX" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-hd_m.png" group-title="Entretenimiento",Fox Sports MX
-http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/145435
-#EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-name="Fox Sports Premium" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-hd_m.png" group-title="Entretenimiento",Fox Sports Premium
-http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/145439
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/200px-TUDN_Logo.svg.png" group-title="Entretenimiento",TUDN
-http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/145458
 #EXTINF:-1 tvg-id="LaRutadelaMuerte.mov" tvg-name="La Ruta de la Muerte" tvg-logo="https://img3.static-ottera.com/prod/cnm/show/thumbnails/widescreen/960x540/ctv-narco_impacto-16x9_2.jpg" group-title="Movie",La Ruta de la Muerte
 https://cfvod.kaltura.com/scf/enc/hlsm/p/2657331/sp/265733100/serveFlavor/entryId/1_o5qhbrwa/v/11/ev/21/flavorId/1_dunxovw3/name/a.mp4/index.m3u8/index-v1-a1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvZW5jL2hsc20vcC8yNjU3MzMxL3NwLzI2NTczMzEwMC9zZXJ2ZUZsYXZvci9lbnRyeUlkLzFfbzVxaGJyd2Evdi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoyMTQ3NDgzNjQ3fX19XX0_&Signature=fgtHuk9aQh505sdaZo9T4ZJT9mfyyhVFJwr2XyvlRbthQB9ihongEZ3566tj4HG9Y9ACMXbfIfHKfS7JasgJ7ZuZmlkd~SK9my9ZjA6tT8jS5Y~0pl4GQAXKghdRueiJgT3lifvMPRLZeRJXUGlI61DFfiqNwjtQra~p0whexp75W~qxyqGozA6xQegQ98bmTAxYuLChBpINUhHqxwCkksSbBUhshwzipYnvypP0P7-N32-Y2KLumEHKG~LemCDRIzGKUKq3pwCKAo8OqlxTv-4kIsHYvDvl-zVNzgLV5Wa2ovu8UkGdOAiJDCXSmjv8~Hivdv3FKbQPFXgKnhtOxw__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
 #EXTINF:-1 tvg-id="MéxicoGranFosaClandestina.mov" tvg-name="México Gran Fosa Clandestina" tvg-logo="https://img3.static-ottera.com/prod/cnm/show/thumbnails/widescreen/960x540/ctv-narco_impacto-16x9_2.jpg" group-title="Movie",México Gran Fosa Clandestina
@@ -567,3 +593,219 @@ https://cfvod.kaltura.com/scf/enc/hlsm/p/2657331/sp/265733100/serveFlavor/entryI
 https://cfvod.kaltura.com/scf/enc/hlsm/p/2657331/sp/265733100/serveFlavor/entryId/1_1d5i6zmx/v/11/ev/20/flavorId/1_2meb93tq/name/a.mp4/index.m3u8/index-v1-a1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvZW5jL2hsc20vcC8yNjU3MzMxL3NwLzI2NTczMzEwMC9zZXJ2ZUZsYXZvci9lbnRyeUlkLzFfMWQ1aTZ6bXgvdi8xMS9ldi8yMC9mbGF2b3JJZC8xXyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjIxNDc0ODM2NDd9fX1dfQ__&Signature=NKd1vuwTMIWOouOU9Lat-8yKV0oHJ9hmEDeTGT8AlZTP1h1JJmgWjUcPfA1Qox-7NRUmB49PLUdX6palQDX6urIcapXgYslxRuhJj1P-x-A2k7gB9JI8H3iTzhL2uJ4k5W3LQbkblGV-PNGrNzohkf6q7fkPS065heSkpaelHhhqOsvB3GpixoyhJcUSg55xynDQEtQpC5m98aW7Dky~TbGrgWKhRfE0ogx-mkYWCkG8W0wWA3eC79-ElQYW-sDPx7uUyKc2B2hCbNdCTjMM8qntMJ62RH05gApE04D6YYnsYexVCQFXwpSQqbOQNR5shuaV82E~dRQCJDtgcz0jpA__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
 #EXTINF:-1 tvg-id="ViolenciayCorrupción" tvg-name="Violencia y Corrupción" tvg-logo="https://img.static-ottera.com/prod/cnm/video/thumbnails/widescreen/400x225/ctv-20-narcoimpacto-16x9.jpg" group-title="Movie",Violencia y Corrupción
 https://cfvod.kaltura.com/scf/enc/hlsm/p/2657331/sp/265733100/serveFlavor/entryId/1_ymsh3kjb/v/11/ev/20/flavorId/1_4vi14frb/name/a.mp4/index.m3u8/index-v1-a1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvZW5jL2hsc20vcC8yNjU3MzMxL3NwLzI2NTczMzEwMC9zZXJ2ZUZsYXZvci9lbnRyeUlkLzFfeW1zaDNramIvdi8xMS9ldi8yMC9mbGF2b3JJZC8xXyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjIxNDc0ODM2NDd9fX1dfQ__&Signature=Z8uLkSu5Ur25LjpKig5wfQZPW22gQtimSdYgHoIU1jhgxd8l6uAytvPZDzrJ2BMphCeR0p8j-KImkbYZjUYpKdoquJAL7uGivvwCwJZIlDG7kNbMnLEkbSP7-mtZo2plrZdA5BcLFXkzewE5eibMT0TKteDOqj0VRUUAcLhodS--JvDdLZd6euJIfMRfDatkxQm8NkAVzYh6CpkS4IGoj-o~CLbqKoyO8T47MlcoqJhsQ3pu6WrteWoq~faI1gv-XlVz7puLxVWk46p3jAx4O1gTdPN9Ez-U7NJBc~IPWHUpNYJlXbZwuUqiAPq0cZI0MqwITJTy4EQEnZs5UvduKg__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E01" tvg-name="Lo Que Diga el Corazón, Niche S01 E01" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E01
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247009.mp4
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E02" tvg-name="Lo Que Diga el Corazón, Niche S01 E02" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E02
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247010.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E03" tvg-name="Lo Que Diga el Corazón, Niche S01 E03" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E03
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247011.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E04" tvg-name="Lo Que Diga el Corazón, Niche S01 E04" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E04
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247012.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E05" tvg-name="Lo Que Diga el Corazón, Niche S01 E05" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E05
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247013.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E06" tvg-name="Lo Que Diga el Corazón, Niche S01 E06" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E06
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247014.mp4
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E07" tvg-name="Lo Que Diga el Corazón, Niche S01 E07" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E07
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247015.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E08" tvg-name="Lo Que Diga el Corazón, Niche S01 E08" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E08
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247016.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E09" tvg-name="Lo Que Diga el Corazón, Niche S01 E09" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E09
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247017.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E10" tvg-name="Lo Que Diga el Corazón, Niche S01 E10" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E10
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247018.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E11" tvg-name="Lo Que Diga el Corazón, Niche S01 E11" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E11
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247019.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E12" tvg-name="Lo Que Diga el Corazón, Niche S01 E12" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E12
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247020.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E13" tvg-name="Lo Que Diga el Corazón, Niche S01 E13" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E13
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247021.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E14" tvg-name="Lo Que Diga el Corazón, Niche S01 E14" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E14
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247022.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E15" tvg-name="Lo Que Diga el Corazón, Niche S01 E15" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E15
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247023.mp4
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E16" tvg-name="Lo Que Diga el Corazón, Niche S01 E16" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E16
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247024.mp4
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E17" tvg-name="Lo Que Diga el Corazón, Niche S01 E17" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E17
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247025.mp4
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E18" tvg-name="Lo Que Diga el Corazón, Niche S01 E18" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E18
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247026.mp4
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E19" tvg-name="Lo Que Diga el Corazón, Niche S01 E19" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E19
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247027.mp4
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E20" tvg-name="Lo Que Diga el Corazón, Niche S01 E20" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E20
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247028.mp4
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E21" tvg-name="Lo Que Diga el Corazón, Niche S01 E21" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E21
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247029.mp4
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E22" tvg-name="Lo Que Diga el Corazón, Niche S01 E22" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E22
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247030.mp4
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E23" tvg-name="Lo Que Diga el Corazón, Niche S01 E23" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E23
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247031.mp4
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E24" tvg-name="Lo Que Diga el Corazón, Niche S01 E24" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E24
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247032.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E25" tvg-name="Lo Que Diga el Corazón, Niche S01 E25" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E25
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247033.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E26" tvg-name="Lo Que Diga el Corazón, Niche S01 E26" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E26
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247034.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E27" tvg-name="Lo Que Diga el Corazón, Niche S01 E27" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E27
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247035.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E28" tvg-name="Lo Que Diga el Corazón, Niche S01 E28" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E28
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247036.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E29" tvg-name="Lo Que Diga el Corazón, Niche S01 E29" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E29
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247037.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E30" tvg-name="Lo Que Diga el Corazón, Niche S01 E30" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E30
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247038.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E31" tvg-name="Lo Que Diga el Corazón, Niche S01 E31" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E31
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247039.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E32" tvg-name="Lo Que Diga el Corazón, Niche S01 E32" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E32
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247040.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E33" tvg-name="Lo Que Diga el Corazón, Niche S01 E33" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E33
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247041.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E34" tvg-name="Lo Que Diga el Corazón, Niche S01 E34" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E34
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247042.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E35" tvg-name="Lo Que Diga el Corazón, Niche S01 E35" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E35
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247043.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E36" tvg-name="Lo Que Diga el Corazón, Niche S01 E36" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E36
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247044.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E37" tvg-name="Lo Que Diga el Corazón, Niche S01 E37" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E37
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247045.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E38" tvg-name="Lo Que Diga el Corazón, Niche S01 E38" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E38
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247046.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E39" tvg-name="Lo Que Diga el Corazón, Niche S01 E39" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E39
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247047.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E40" tvg-name="Lo Que Diga el Corazón, Niche S01 E40" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E40
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247048.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E41" tvg-name="Lo Que Diga el Corazón, Niche S01 E41" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E41
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247049.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E42" tvg-name="Lo Que Diga el Corazón, Niche S01 E42" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E42
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247050.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E43" tvg-name="Lo Que Diga el Corazón, Niche S01 E43" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E43
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247051.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E44" tvg-name="Lo Que Diga el Corazón, Niche S01 E44" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E44
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247052.mp4
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E45" tvg-name="Lo Que Diga el Corazón, Niche S01 E45" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E45
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247053.mp4
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E46" tvg-name="Lo Que Diga el Corazón, Niche S01 E46" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E46
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247054.mp4
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E47" tvg-name="Lo Que Diga el Corazón, Niche S01 E47" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E47
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247055.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E48" tvg-name="Lo Que Diga el Corazón, Niche S01 E48" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E48
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247056.mp4
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E49" tvg-name="Lo Que Diga el Corazón, Niche S01 E49" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E49
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247057.mp4
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E50" tvg-name="Lo Que Diga el Corazón, Niche S01 E50" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E50
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247058.mp4
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E51" tvg-name="Lo Que Diga el Corazón, Niche S01 E51" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E51
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247059.mp4
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E52" tvg-name="Lo Que Diga el Corazón, Niche S01 E52" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E52
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247060.mp4
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E53" tvg-name="Lo Que Diga el Corazón, Niche S01 E53" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E53
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247061.mp4
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E54" tvg-name="Lo Que Diga el Corazón, Niche S01 E54" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E54
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247062.mp4
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E55" tvg-name="Lo Que Diga el Corazón, Niche S01 E55" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E55
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247063.mp4
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E56" tvg-name="Lo Que Diga el Corazón, Niche S01 E56" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E56
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247064.mp4
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E57" tvg-name="Lo Que Diga el Corazón, Niche S01 E57" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E57
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247065.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E58" tvg-name="Lo Que Diga el Corazón, Niche S01 E58" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E58
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247066.mp4
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E59" tvg-name="Lo Que Diga el Corazón, Niche S01 E59" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E59
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247067.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E60" tvg-name="Lo Que Diga el Corazón, Niche S01 E60" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E60
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247068.mp4
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E61" tvg-name="Lo Que Diga el Corazón, Niche S01 E61" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E61
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247069.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E62" tvg-name="Lo Que Diga el Corazón, Niche S01 E62" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E62
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247070.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E63" tvg-name="Lo Que Diga el Corazón, Niche S01 E63" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E63
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247071.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E64" tvg-name="Lo Que Diga el Corazón, Niche S01 E64" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E64
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247072.mp4
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E65" tvg-name="Lo Que Diga el Corazón, Niche S01 E65" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E65
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247073.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E66" tvg-name="Lo Que Diga el Corazón, Niche S01 E66" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E66
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247074.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E67" tvg-name="Lo Que Diga el Corazón, Niche S01 E67" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E67
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247075.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E68" tvg-name="Lo Que Diga el Corazón, Niche S01 E68" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E68
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247076.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E69" tvg-name="Lo Que Diga el Corazón, Niche S01 E69" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E69
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247077.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E70" tvg-name="Lo Que Diga el Corazón, Niche S01 E70" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E70
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247078.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E71" tvg-name="Lo Que Diga el Corazón, Niche S01 E71" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E71
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247079.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E72" tvg-name="Lo Que Diga el Corazón, Niche S01 E72" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E72
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247080.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E73" tvg-name="Lo Que Diga el Corazón, Niche S01 E73" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E73
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247081.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E74" tvg-name="Lo Que Diga el Corazón, Niche S01 E74" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E74
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247082.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E75" tvg-name="Lo Que Diga el Corazón, Niche S01 E75" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E75
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247083.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E76" tvg-name="Lo Que Diga el Corazón, Niche S01 E76" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E76
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247084.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E77" tvg-name="Lo Que Diga el Corazón, Niche S01 E77" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E77
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247085.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E78" tvg-name="Lo Que Diga el Corazón, Niche S01 E78" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E78
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247086.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E79" tvg-name="Lo Que Diga el Corazón, Niche S01 E79" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E79
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247087.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E80" tvg-name="Lo Que Diga el Corazón, Niche S01 E80" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E80
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247088.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E81" tvg-name="Lo Que Diga el Corazón, Niche S01 E81" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E81
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247089.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E82" tvg-name="Lo Que Diga el Corazón, Niche S01 E82" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E82
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247090.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E83" tvg-name="Lo Que Diga el Corazón, Niche S01 E83" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E83
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247091.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E84" tvg-name="Lo Que Diga el Corazón, Niche S01 E84" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E84
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247092.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E85" tvg-name="Lo Que Diga el Corazón, Niche S01 E85" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E85
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247093.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E86" tvg-name="Lo Que Diga el Corazón, Niche S01 E86" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E86
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247094.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E87" tvg-name="Lo Que Diga el Corazón, Niche S01 E87" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E87
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247095.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E88" tvg-name="Lo Que Diga el Corazón, Niche S01 E88" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E88
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247096.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E89" tvg-name="Lo Que Diga el Corazón, Niche S01 E89" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E89
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247097.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E90" tvg-name="Lo Que Diga el Corazón, Niche S01 E90" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E90
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247098.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E91" tvg-name="Lo Que Diga el Corazón, Niche S01 E91" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E91
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247099.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E92" tvg-name="Lo Que Diga el Corazón, Niche S01 E92" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E92
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247100.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E93" tvg-name="Lo Que Diga el Corazón, Niche S01 E93" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E93
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247101.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E94" tvg-name="Lo Que Diga el Corazón, Niche S01 E94" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E94
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247102.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E95" tvg-name="Lo Que Diga el Corazón, Niche S01 E95" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E95
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247103.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E96" tvg-name="Lo Que Diga el Corazón, Niche S01 E96" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E96
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247104.mp4
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E97" tvg-name="Lo Que Diga el Corazón, Niche S01 E97" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E97
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247105.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E98" tvg-name="Lo Que Diga el Corazón, Niche S01 E98" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E98
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247106.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E99" tvg-name="Lo Que Diga el Corazón, Niche S01 E99" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E99
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247107.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E100" tvg-name="Lo Que Diga el Corazón, Niche S01 E100" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E100
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247108.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E101" tvg-name="Lo Que Diga el Corazón, Niche S01 E101" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E101
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247109.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E102" tvg-name="Lo Que Diga el Corazón, Niche S01 E102" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E102
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247110.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E103" tvg-name="Lo Que Diga el Corazón, Niche S01 E103" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E103
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247111.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E104" tvg-name="Lo Que Diga el Corazón, Niche S01 E104" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E104
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247112.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E105" tvg-name="Lo Que Diga el Corazón, Niche S01 E105" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E105
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247113.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E106" tvg-name="Lo Que Diga el Corazón, Niche S01 E106" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E106
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247114.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E107" tvg-name="Lo Que Diga el Corazón, Niche S01 E107" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E107
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247115.mkv
+#EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E108" tvg-name="Lo Que Diga el Corazón, Niche S01 E108" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E108
+http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247116.mkv
