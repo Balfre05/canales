@@ -45,6 +45,8 @@ http://51.222.241.122:8080/GuillermoSolmon/Solmon20/49798
 http://45.228.232.219:16000/play/a0nc/index.m3u8
 #EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="Star Channel" tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox_m.png" group-title="Entretenimiento",Star Channel
 http://45.228.232.219:16000/play/a0nb/index.m3u8
+#EXTINF:-1 tvg-id="UniversalReality.mx" tvg-name="Universal Reality" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Universal_Reality.svg/revision/latest?cb=20220311032056" group-title="Entretenimiento",Universal Reality
+http://526210080704666082.ofd0203.xyz:80/play/hu1211511/aPGCTqAGAU/666082.ts
 #EXTINF:-1 tvg-id="Nickelodeon.mx" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/800px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Entretenimiento",Nickelodeon
 http://45.228.232.219:16000/play/a0ns/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="https://cdn.mitvstatic.com/channels/mx_national-geographic_m.png" group-title="Entretenimiento",National Geographic
@@ -105,6 +107,8 @@ http://45.228.232.219:16000/play/a0m4/index.m3u8
 http://45.228.232.219:16000/play/a0mf/index.m3u8
 #EXTINF:-1 tvg-id="MTVHits.mx" tvg-name="MTV Hits" tvg-logo="https://cdn.mitvstatic.com/channels/mx_m-tv_m.png" group-title="Entretenimiento",MTV Hits
 http://45.228.232.219:16000/play/a0m3/index.m3u8
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="Entretenimiento",Golden
+http://526210080704778317.ofd0203.xyz:80/play/hu1211511/aPGCTqAGAU/778317.ts
 #EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="De Pelicula" tvg-logo="http://daleplaypro.com:8080/images/7873cddaf3a01b83d332c89e07df3601.png" group-title="Entretenimiento",De Pelicula
 http://daleplaypro.com:8080/1bopl31er1ano/4347767hd/63734
 #EXTINF:-1 tvg-id="DePelicula+.mx" tvg-name="De Pelicula +" tvg-logo="http://daleplaypro.com:8080/images/7873cddaf3a01b83d332c89e07df3601.png" group-title="Entretenimiento",De Pelicula +
@@ -129,6 +133,8 @@ http://45.228.232.219:16000/play/a0l0/index.m3u8
 http://ipro.webvps.de:25443/live/UND6ZGE2LS/SLUHECDTTQ/78636.ts
 #EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/HBO_1975.svg/revision/latest?cb=20200119130612&path-prefix=es" group-title="Entretenimiento",HBO 2
 http://ipro.webvps.de:25443/live/UND6ZGE2LS/SLUHECDTTQ/78637.ts
+#EXTINF:-1 tvg-id="HBO3.mx" tvg-name="HBO 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/HBO_1975.svg/revision/latest?cb=20200119130612&path-prefix=es" group-title="Entretenimiento",HBO 3
+http://526210080704624900.ofd0203.xyz:80/play/hu1211511/aPGCTqAGAU/624900.ts
 #EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/HBO_Family.svg/revision/latest?cb=20230305154037&path-prefix=es" group-title="Entretenimiento",HBO Family
 http://ipro.webvps.de:25443/live/UND6ZGE2LS/SLUHECDTTQ/78638.ts
 #EXTINF:-1 tvg-id="USA.mx" tvg-name="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/200px-USA_Network_logo_%282016%29.svg.png" group-title="Entretenimiento",USA
@@ -153,6 +159,8 @@ http://restreamus.com:8080/TVPRJOSE92311/X8LcDT7NXVR7/181566
 http://ipro.webvps.de:25443/live/UND6ZGE2LS/SLUHECDTTQ/78398.ts
 #EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="Comedy Central" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7TNTdX_LycpJoLIlRhhsQs7iVQdf1XtQwwg&usqp=CAU" group-title="Entretenimiento",Comedy Central
 http://daleplaypro.com:8080/1bopl31er1ano/4347767hd/63192
+#EXTINF:-1 tvg-id="ComedyCentral2.mx" tvg-name="Comedy Central 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7TNTdX_LycpJoLIlRhhsQs7iVQdf1XtQwwg&usqp=CAU" group-title="Entretenimiento",Comedy Central 2
+http://526210080704624874.ofd0203.xyz:80/play/hu1211511/aPGCTqAGAU/624874.ts
 #EXTINF:-1 tvg-id="Unicable.mx" tvg-name="Unicable" tvg-logo="http://daleplay.club:8080/images/acc7de5cb8a06559a2da33ee9bec889e.png" group-title="Entretenimiento",Unicable
 http://daleplaypro.com:8080/1bopl31er1ano/4347767hd/63189
 #EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="Distrito Comedia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8-OZQYKbCJfjV2C44_gCvEeC-xrqomWNIg&usqp=CAU" group-title="Entretenimiento",Distrito Comedia
@@ -170,13 +178,13 @@ http://rasaiptv.com:8080/014global/XcX6pEVEHE5t/80
 #EXTINF:-1 tvg-id="FoxSports2.mx" tvg-name="Fox Sports 2" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-hd_m.png" group-title="Entretenimiento",Fox Sports 2
 http://restreamus.com:8080/TVPRJOSE92311/X8LcDT7NXVR7/233981
 #EXTINF:-1 tvg-id="FoxSports2MX.mx" tvg-name="Fox Sports 2 MX" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-hd_m.png" group-title="Entretenimiento",Fox Sports 2 MX
-
+http://andhablfus.online:2082/DavidMolinaCarlosManuel/4MjQGB5jNZyG/392316
 #EXTINF:-1 tvg-id="FoxSports3MX.mx" tvg-name="Fox Sports 3 MX" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-hd_m.png" group-title="Entretenimiento",Fox Sports 3 MX
-
+http://andhablfus.online:2082/DavidMolinaCarlosManuel/4MjQGB5jNZyG/392317
 #EXTINF:-1 tvg-id="FoxSportsMX.mx" tvg-name="Fox Sports MX" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-hd_m.png" group-title="Entretenimiento",Fox Sports MX
-
+http://andhablfus.online:2082/DavidMolinaCarlosManuel/4MjQGB5jNZyG/392318
 #EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-name="Fox Sports Premium" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-hd_m.png" group-title="Entretenimiento",Fox Sports Premium
-
+http://andhablfus.online:2082/DavidMolinaCarlosManuel/4MjQGB5jNZyG/392319
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn_m.png" group-title="Entretenimiento",ESPN
 http://45.228.232.219:16000/play/a0n7/index.m3u8
 #EXTINF:-1 tvg-id="ESPN+.mx" tvg-name="ESPN +" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn_m.png" group-title="Entretenimiento",ESPN +
@@ -374,11 +382,11 @@ http://45.228.232.219:16000/play/a0lw/index.m3u8
 #EXTINF:-1 tvg-id="AzMundo.mx" tvg-name="Az Mundo" tvg-logo="https://cdn.mitvstatic.com/channels/co_az-mundo-hd_m.png" group-title="Mexico",Az Mundo
 http://45.228.232.219:16000/play/a0mx/index.m3u8
 #EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Caracol_2015.png/revision/latest/scale-to-width-down/200?cb=20210217012432&path-prefix=es" group-title="Colombia",Caracol
-
+http://rasaiptv.com:8080/014global/XcX6pEVEHE5t/69251
 #EXTINF:-1 tvg-id="Caracol1.co" tvg-name="Caracol 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Caracol_2015.png/revision/latest/scale-to-width-down/200?cb=20210217012432&path-prefix=es" group-title="Colombia",Caracol 1
-
+http://rasaiptv.com:8080/014global/XcX6pEVEHE5t/69252
 #EXTINF:-1 tvg-id="Caracol2.co" tvg-name="Caracol 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Caracol_2015.png/revision/latest/scale-to-width-down/200?cb=20210217012432&path-prefix=es" group-title="Colombia",Caracol 2
-
+http://rasaiptv.com:8080/014global/XcX6pEVEHE5t/69253
 #EXTINF:-1 tvg-id="Caracol3.co" tvg-name="Caracol 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Caracol_2015.png/revision/latest/scale-to-width-down/200?cb=20210217012432&path-prefix=es" group-title="Colombia",Caracol 3
 http://daleplaypro.com:8080/1bopl31er1ano/4347767hd/69251
 #EXTINF:-1 tvg-id="Caracol4.co" tvg-name="Caracol 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Caracol_2015.png/revision/latest/scale-to-width-down/200?cb=20210217012432&path-prefix=es" group-title="Colombia",Caracol 4
@@ -390,9 +398,13 @@ http://ipro.webvps.de:25443/live/UND6ZGE2LS/SLUHECDTTQ/78595.ts
 #EXTINF:-1 tvg-id="RCN.co" tvg-name="RCN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Canal_RCN_%282019-Dec%29.svg/revision/latest/scale-to-width-down/1000?cb=20210426191756&path-prefix=es" group-title="Colombia",RCN
 http://rasaiptv.com:8080/014global/XcX6pEVEHE5t/291045
 #EXTINF:-1 tvg-id="RCN1.co" tvg-name="RCN 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Canal_RCN_%282019-Dec%29.svg/revision/latest/scale-to-width-down/1000?cb=20210426191756&path-prefix=es" group-title="Colombia",RCN 1
-
+http://rasaiptv.com:8080/014global/XcX6pEVEHE5t/69266
+#EXTINF:-1 tvg-id="RCN2.co" tvg-name="RCN 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Canal_RCN_%282019-Dec%29.svg/revision/latest/scale-to-width-down/1000?cb=20210426191756&path-prefix=es" group-title="Colombia",RCN 2
+http://rasaiptv.com:8080/014global/XcX6pEVEHE5t/69269
+#EXTINF:-1 tvg-id="RCN3.co" tvg-name="RCN 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Canal_RCN_%282019-Dec%29.svg/revision/latest/scale-to-width-down/1000?cb=20210426191756&path-prefix=es" group-title="Colombia",RCN 3
+http://526210080704687995.ofd0203.xyz:80/play/hu1211511/aPGCTqAGAU/687995.ts
 #EXTINF:-1 tvg-id="CityTv.co" tvg-name="City Tv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/Citytv_1999_1.png/revision/latest?cb=20180329144851&path-prefix=es" group-title="Colombia",City Tv
-
+http://rasaiptv.com:8080/014global/XcX6pEVEHE5t/69259
 #EXTINF:-1 tvg-id="ATNTV.co" tvg-name="ATN TV" tvg-logo="https://i.imgur.com/79sX78u.png" group-title="Colombia",ATN TV
 https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="MasTV.co" tvg-name="MasTV" tvg-logo="https://cdn.colombia.com/canales/canal-mas-television-5347.jpg" group-title="Colombia",MasTV
@@ -445,6 +457,8 @@ https://plataformavideo.com:19360/8020/8020.m3u8
 https://ssh101.bozztv.com/ssh101/KIOCApP/playlist.m3u8
 #EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="RCN Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/205px-RCN_Novelas_logo_2019.png" group-title="Colombia",RCN Novelas
 http://45.228.232.219:16000/play/a0kw/index.m3u8
+#EXTINF:-1 tvg-id="TVN.pa" tvg-name="TVN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/TVN_Panam%C3%A1_%282013-2017%29.png/revision/latest?cb=20200108123758&path-prefix=es" group-title="Panama",TVN
+http://526210080704657208.ofd0203.xyz:80/play/hu1211511/aPGCTqAGAU/657208.ts
 #EXTINF:-1 tvg-id="101tvMalaga.es" tvg-name="101 TV Malaga" tvg-logo="https://i.imgur.com/CXHLhZD.png" group-title="España",101 TV Malaga
 https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 #EXTINF:-1 tvg-id="28kanala.es" tvg-name="28 Kanala" tvg-logo="https://i.imgur.com/DyvK28q.png" group-title="España",28 Kanala
@@ -508,7 +522,7 @@ http://767795123495321106.ofd112.xyz:80/play/vi0105819/@Dk@GPx7vrQ/321106.ts
 #EXTINF:-1 tvg-id="Antena3Internacional.es" tvg-name="Antena 3 Internacional" tvg-logo="http://daleplay.club:8080/images/27f92bbfb6c1e0868fbf28918f28a66d.png" group-title="España",Antena 3 Internacional
 http://daleplaypro.com:8080/1bopl31er1ano/4347767hd/110048
 #EXTINF:-1 tvg-id="A3Series.es" tvg-name="A3Series" tvg-logo="https://cdn.mitvstatic.com/channels/ar_atreseries_m.png" group-title="España",A3Series
-
+http://rasaiptv.com:8080/014global/XcX6pEVEHE5t/110060
 #EXTINF:-1 tvg-id="A3Series2.es" tvg-name="A3Series 2" tvg-logo="https://cdn.mitvstatic.com/channels/ar_atreseries_m.png" group-title="España",A3Series 2
 http://daleplaypro.com:8080/1bopl31er1ano/4347767hd/110059
 #EXTINF:-1 tvg-id="A3Series3.es" tvg-name="A3Series 3" tvg-logo="https://cdn.mitvstatic.com/channels/ar_atreseries_m.png" group-title="España",A3Series 3
@@ -877,5 +891,5 @@ http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247114.mkv
 http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247115.mkv
 #EXTINF:-1 tvg-id="LoQueDigaelCorazón,NicheS01E108" tvg-name="Lo Que Diga el Corazón, Niche S01 E108" tvg-logo="http://daleplaypro.com:8080/images/66d288e904161158ae4981397bd38a72.jpg" group-title="Serie",Lo Que Diga el Corazón, Niche S01 E108
 http://daleplaypro.com:8080/series/1bopl31er1ano/4347767hd/247116.mkv
-
+                
 
